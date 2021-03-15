@@ -29,7 +29,7 @@
 
 ## 實現示例
 
-* JavaScript
+* JavaScript: [yylc-js](https://github.com/dohliam/yylc-js)
 
 ## 另見
 
