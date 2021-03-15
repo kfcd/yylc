@@ -1,0 +1,67 @@
+巴	baa1	打	daa2	搧一巴掌，打一個耳光
+巴	baa1	摑	gwaak3	搧一巴掌，打一個耳光
+餐	caan1	㨘	saang2	訓斥一頓
+餐	caan1	做	zou6	做一番
+餐	caan1	喊	haam3	哭一場
+餐	caan1	嗌	ngaai3	喊叫一番，大叫一番
+餐	caan1	嘈	cou4	吵鬧一場，爭吵一番
+餐	caan1	徇	seon1	臭罵一頓
+餐	caan1	打	daa2	打一頓
+餐	caan1	教訓	gaau3 fan3	教訓一頓
+餐	caan1	暴打	bou3 daa2	暴打一頓
+餐	caan1	爭	zaang1	爭論一番，爭持一番，爭執一番
+餐	caan1	砌	cai3	揍一頓
+餐	caan1	計	gai3	計較一番
+餐	caan1	諗	nam2	想一番
+餐	caan1	講	gong2	說一番
+餐	caan1	食	sik6	吃一頓飯
+餐	caan1	飲	jam2	喝一頓，喝一場
+餐	caan1	鬥	dau3	鬥爭一番，比賽一番
+餐	caan1	鬧	naau6	罵一頓
+籌	cau4	做	zou6	做一次
+籌	cau4	讀	duk6	讀一遍
+捶	ceoi4	打	daa2	打一拳
+啖	daam6	吐	tou3	吐一口
+啖	daam6	吞	tan1	吞一口
+啖	daam6	吸	kap1	吸一口
+啖	daam6	呷	haap3	喝一口
+啖	daam6	呼	fu1	呼一口
+啖	daam6	呼吸	fu1 kap1	呼吸一口
+啖	daam6	咀	zeoi2	親一下
+啖	daam6	咬	ngaau5	咬一口
+啖	daam6	唞	tau2	歇一口，鬆一口
+啖	daam6	嗍	sok3	吸一口
+啖	daam6	嘔	ngau2	吐一口，嘔吐一口
+啖	daam6	嘴	zeoi2	親一口，親一下
+啖	daam6	深呼吸	sam1 fu1 kap1	深呼吸一口
+啖	daam6	舐	lem2	舔一口
+啖	daam6	試	si3	嚐一口
+啖	daam6	透	tau2	喘一口，呼吸一口
+啖	daam6	錫	sek3	吻一下，親一下
+啖	daam6	食	sik6	吃一口
+啖	daam6	飲	jam2	喝一口
+吓	haa5	睇	tai2	看一下，看看
+浸	zam3	搽	caa4	搽了一層
+陣	zan6	企	kei5	站一會兒
+陣	zan6	失陪	sat1 pui4	失陪一下
+陣	zan6	玩	waan2	玩一會兒
+陣	zan6	等	dang2	等一會兒
+陣	zan6	行開	haang4 hoi1	走開一會兒
+陣	zan6	諗	nam2	想一下
+陣	zan6	阻	zo2	打擾一下
+仗	zoeng3	去	heoi3	去一趟
+仗	zoeng3	搵	wan2	找一回
+仗	zoeng3	睇	tai2	看一次
+輪	leon4	㨘	saang2	訓斥一頓
+輪	leon4	休息	jau1 sik1	休息幾天，休息一兩天
+輪	leon4	喊	haam3	哭一場
+輪	leon4	排演	paai4 jin2	排演一次
+輪	leon4	摷	ziu6	痛打一頓
+輪	leon4	攪	gaau2	弄半天，搞半天，做半天
+輪	leon4	行	haang4	逛一圈，跑一趟
+輪	leon4	解釋	gaai2 sik1	解釋老半天
+輪	leon4	講	gong2	說半天，說老半天
+輪	leon4	鬧	naau6	罵一頓
+水	seoi2	去	heoi3	去一個往返
+水	seoi2	洗	sai2	洗一次
+勻	wan4	行	haang4	走一遍，跑一遍
