@@ -111,8 +111,8 @@
 揪	cäw	菩提子	pow tay jĩ	一嘟嚕葡萄，一串葡萄
 揪	cäw	鎖匙	sõ si	一串鑰匙
 揪	cäw	提子	tay jĩ	一嘟嚕葡萄，一串葡萄
+場	ceong	病	bèng	一場病
 場	ceong	過雲雨	guô want yeú	一場陣雨
-塲	ceong	病	bèng	一塲病
 齣	cöt	大戲	dài hêy	一部粤劇
 齣	cöt	電影	dìn yẽnk	一場電影
 齣	cöt	喜劇	hẽy kèg	一部喜劇
@@ -210,7 +210,6 @@
 沓	dàb	雜誌	jàb jî	一疊雜誌，一摞雜誌
 沓	dàb	紙	jĩ	一疊紙
 沓	dàb	樓	lãw	一層樓，一座樓房
-沓	dàb	銀紙	ngant jĩ	一疊鈔票
 沓	dàb	銀紙	ngant jĩ	一疊鈔票，一沓鈔票，一沓票子
 沓	dàb	書	seü	一疊書，一摞書
 沓	dàb	碗	wũn	一摞碗
@@ -223,7 +222,6 @@
 躉	dãnt	大廈	dài hà	一座大廈
 躉	dãnt	樓	lãw	一座房子
 躉	dãnt	洋樓	yeong lãw	一棟大廈
-道	dao4	彩虹	cõi honk	一道彩虹
 兜	däw	飯	fàn	一盆飯
 兜	däw	手巾仔	sãw gänt jãy	一條手絹
 蔸	däw	草	cõw	一棵草
@@ -282,6 +280,7 @@
 度	dòw	門	mun	一扇門
 度	dòw	散手	sãn sãw	一套技能
 渡	dòw	船	seun	一班船
+道	dòw	彩虹	cõi honk	一道彩虹
 篤	dök	口水	hãw sõy	一口吐沫，一口口水
 篤	dök	口水痰	hãw sõy tam	一口痰
 篤	dök	尿	nìu	一泡尿
@@ -328,7 +327,7 @@
 番	fän	見解	gîn gãi	一番見解
 番	fän	景象	gẽnk jeòng	一番景象
 番	fän	局面	gòk mìn	一番局面
-番	fän	功夫	gönk fü	一番功夫
+番	fän	工夫	gönk fü	一番工夫
 番	fän	好意	hõw yî	一番好意
 番	fän	周折	jäw jîd	一番周折
 番	fän	滋味	jï mèy	一番滋味
@@ -416,8 +415,7 @@
 間	gän	中學	jönk hòg	一所中學
 間	gän	旅行社	lóy hank sé	一家旅行社
 間	gän	茅廁	mau cî	一個茅廁
-間	gän	廟	mĩu	一座廟，一座廟宇
-間	gän	廟	mìu	一個廟，一個寺廟
+間	gän	廟	mĩu	一座廟，一個廟，一個寺廟，一座廟宇
 間	gän	銀行	ngant hong	一家銀行
 間	gän	屋	ngök	一所房子，一棟房子，一個房子
 間	gän	屋仔	ngök jãy	一座小屋，一座茅屋，一座茅舍，一幢茅舍
@@ -441,7 +439,6 @@
 嚿	gàw	木	mòk	一塊木頭
 嚿	gàw	泥	nay	一塊土，一團泥，一團泥土
 嚿	gàw	石	sèg	一塊石頭
-嚿	gàw	水	sõy	一百塊錢
 嚿	gàw	水	sõy	一百元，一百塊錢
 嚿	gàw	燒賣	sïu mãi	一顆燒賣，一顆燒麥
 嚿	gàw	雪	seûd	一塊冰
@@ -521,7 +518,6 @@
 個	gô	沙葛	sä gôd	一個豆薯，一個涼薯，一個葛薯
 個	gô	生菜	säng côi	一個萵苣
 個	gô	筲箕	säu gëy	一個篩子
-個	gô	西蘭花	säy lan fä	一個西蘭花
 個	gô	世界	sây gâi	一個世界
 個	gô	世紀	sây gẽy	一個世紀
 個	gô	手錶	sãw bïu	一塊手錶
@@ -548,10 +544,8 @@
 口	hãw	釘	dëng	一顆釘子，一根釘子
 口	hãw	針	jämp	一根針
 口	hãw	炮仗	pâu jeõng	一根鞭炮，一枚爆竹，一支炮竹，一個鞭炮
-口	hãw	煙	yïn	一支香煙，一根香煙
-口	hãw	煙	yïn	一根煙
+口	hãw	煙	yïn	一根煙，一支香煙，一根香煙
 口	hãw	煙仔	yïn jãy	一支香煙，一根香煙
-河	ho	條	tiu	一河條
 殼	hôg	眼淚	ngán lòy	一眶眼淚
 殼	hôg	水	sõy	一瓢水，一舀子水
 殼	hôg	湯	töng	一勺湯，一勺子湯
@@ -630,8 +624,7 @@
 隻	jêg	梳	sö	一把梳子
 隻	jêg	兔	tôw	一隻兔子
 隻	jêg	鍋	wö	一口鍋
-隻	jêg	鑊	wòg	一口鍋，一個鍋
-隻	jêg	鑊	wòg	一口鐵鍋，一口炒菜鍋
+隻	jêg	鑊	wòg	一口鍋，一個鍋，一口鐵鍋，一口炒菜鍋
 隻	jêg	碗	wũn	一個碗
 隻	jêg	嘢	yé	一個傢伙
 隻	jêg	藥	yeòg	一種藥
@@ -727,7 +720,6 @@
 支	jï	竹	jök	一根竹子
 支	jï	足球隊	jök kaw dòy	一個足球隊，一支足球隊
 支	jï	旗	key	一面旗，一面旗子
-支	jï	旗	key	一面旗子
 支	jï	旗仔	key jãy	一面旗子
 支	jï	強心針	keong sämp jämp	一劑強心針
 支	jï	礦泉水	kuông ceun sõy	一瓶礦泉水
@@ -897,7 +889,6 @@
 粒	näp	聲	sëng	一聲
 粒	näp	水晶	sõy jënk	一顆水晶
 粒	näp	星	sënk	一顆星
-粒	näp	蒜頭	seûn taw	一瓣蒜
 粒	näp	糖	tõng	一塊糖，一塊顆糖
 額	ngàg	汗	hòn	一頭汗
 眼	ngãn	釘	dëng	一顆釘子，一根釘子
@@ -1010,6 +1001,7 @@ pack	pëg	藥水膠布	yeòg sõy gäu bôw	一包藥水膠布
 條	tiu	棍	guânt	一根棍子，一條棍子
 條	tiu	痕	hãnt	一道印
 條	tiu	氣	hêy	一肚子氣
+條	tiu	河	ho	一條河
 條	tiu	巷仔	hòng jãy	一條小巷
 條	tiu	紅衫	honk säm	一條金線魚
 條	tiu	紅衫魚	honk säm yeũ	一條金線魚
@@ -1096,6 +1088,7 @@ pack	pëg	藥水膠布	yeòg sõy gäu bôw	一包藥水膠布
 脫	teûd	衫	säm	一套衣服，一身衣服
 圍	way	酒	jãw	一桌酒席
 圍	way	和頭酒	wo taw jãw	一桌謝罪酒
+回	wui	事	sì	一回事
 碗	wũn	茶	ca	一碗茶
 碗	wũn	菜	côi	一碗菜
 碗	wũn	飯	fàn	一碗飯

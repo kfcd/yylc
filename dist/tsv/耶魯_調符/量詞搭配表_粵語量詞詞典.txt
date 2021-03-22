@@ -111,8 +111,8 @@
 揪	chāu	菩提子	pòuh tàih jí	一嘟嚕葡萄，一串葡萄
 揪	chāu	鎖匙	só sìh	一串鑰匙
 揪	chāu	提子	tàih jí	一嘟嚕葡萄，一串葡萄
+場	cheùhng	病	behng	一場病
 場	cheùhng	過雲雨	gwo wàhn yúh	一場陣雨
-塲	cheùhng	病	behng	一塲病
 齣	cheūt	大戲	daaih hei	一部粤劇
 齣	cheūt	電影	dihn yíng	一場電影
 齣	cheūt	喜劇	héi kehk	一部喜劇
@@ -210,7 +210,6 @@
 沓	daahp	雜誌	jaahp ji	一疊雜誌，一摞雜誌
 沓	daahp	紙	jí	一疊紙
 沓	daahp	樓	láu	一層樓，一座樓房
-沓	daahp	銀紙	ngàhn jí	一疊鈔票
 沓	daahp	銀紙	ngàhn jí	一疊鈔票，一沓鈔票，一沓票子
 沓	daahp	書	syū	一疊書，一摞書
 沓	daahp	碗	wún	一摞碗
@@ -223,7 +222,6 @@
 躉	dán	大廈	daaih hah	一座大廈
 躉	dán	樓	láu	一座房子
 躉	dán	洋樓	yeùhng láu	一棟大廈
-道	dao4	彩虹	chói hùhng	一道彩虹
 兜	dāu	飯	faahn	一盆飯
 兜	dāu	手巾仔	sáu gān jái	一條手絹
 蔸	dāu	草	chóu	一棵草
@@ -282,6 +280,7 @@
 度	douh	門	mùhn	一扇門
 度	douh	散手	sáan sáu	一套技能
 渡	douh	船	syùhn	一班船
+道	douh	彩虹	chói hùhng	一道彩虹
 篤	dūk	口水	háu séui	一口吐沫，一口口水
 篤	dūk	口水痰	háu séui tàahm	一口痰
 篤	dūk	尿	niuh	一泡尿
@@ -328,7 +327,7 @@
 番	fāan	見解	gin gáai	一番見解
 番	fāan	景象	gíng jeuhng	一番景象
 番	fāan	局面	guhk mihn	一番局面
-番	fāan	功夫	gūng fū	一番功夫
+番	fāan	工夫	gūng fū	一番工夫
 番	fāan	好意	hóu yi	一番好意
 番	fāan	周折	jāu jit	一番周折
 番	fāan	滋味	jī meih	一番滋味
@@ -416,8 +415,7 @@
 間	gāan	中學	jūng hohk	一所中學
 間	gāan	旅行社	léuih hàhng séh	一家旅行社
 間	gāan	茅廁	màauh chi	一個茅廁
-間	gāan	廟	miú	一座廟，一座廟宇
-間	gāan	廟	miuh	一個廟，一個寺廟
+間	gāan	廟	miú	一座廟，一個廟，一個寺廟，一座廟宇
 間	gāan	銀行	ngàhn hòhng	一家銀行
 間	gāan	屋	ngūk	一所房子，一棟房子，一個房子
 間	gāan	屋仔	ngūk jái	一座小屋，一座茅屋，一座茅舍，一幢茅舍
@@ -441,7 +439,6 @@
 嚿	gauh	木	muhk	一塊木頭
 嚿	gauh	泥	nàih	一塊土，一團泥，一團泥土
 嚿	gauh	石	sehk	一塊石頭
-嚿	gauh	水	séui	一百塊錢
 嚿	gauh	水	séui	一百元，一百塊錢
 嚿	gauh	燒賣	siū máai	一顆燒賣，一顆燒麥
 嚿	gauh	雪	syut	一塊冰
@@ -521,7 +518,6 @@
 個	go	沙葛	sā got	一個豆薯，一個涼薯，一個葛薯
 個	go	生菜	sāang choi	一個萵苣
 個	go	筲箕	sāau gēi	一個篩子
-個	go	西蘭花	sāi làahn fā	一個西蘭花
 個	go	世界	sai gaai	一個世界
 個	go	世紀	sai géi	一個世紀
 個	go	手錶	sáu biū	一塊手錶
@@ -548,10 +544,8 @@
 口	háu	釘	dēng	一顆釘子，一根釘子
 口	háu	針	jām	一根針
 口	háu	炮仗	paau jeúng	一根鞭炮，一枚爆竹，一支炮竹，一個鞭炮
-口	háu	煙	yīn	一支香煙，一根香煙
-口	háu	煙	yīn	一根煙
+口	háu	煙	yīn	一根煙，一支香煙，一根香煙
 口	háu	煙仔	yīn jái	一支香煙，一根香煙
-河	hòh	條	tiùh	一河條
 殼	hok	眼淚	ngáahn leuih	一眶眼淚
 殼	hok	水	séui	一瓢水，一舀子水
 殼	hok	湯	tōng	一勺湯，一勺子湯
@@ -630,8 +624,7 @@
 隻	jek	梳	sō	一把梳子
 隻	jek	兔	tou	一隻兔子
 隻	jek	鍋	wō	一口鍋
-隻	jek	鑊	wohk	一口鍋，一個鍋
-隻	jek	鑊	wohk	一口鐵鍋，一口炒菜鍋
+隻	jek	鑊	wohk	一口鍋，一個鍋，一口鐵鍋，一口炒菜鍋
 隻	jek	碗	wún	一個碗
 隻	jek	嘢	yéh	一個傢伙
 隻	jek	藥	yeuhk	一種藥
@@ -727,7 +720,6 @@
 支	jī	竹	jūk	一根竹子
 支	jī	足球隊	jūk kàuh deuih	一個足球隊，一支足球隊
 支	jī	旗	kèih	一面旗，一面旗子
-支	jī	旗	kèih	一面旗子
 支	jī	旗仔	kèih jái	一面旗子
 支	jī	強心針	keùhng sām jām	一劑強心針
 支	jī	礦泉水	kwong chyùhn séui	一瓶礦泉水
@@ -897,7 +889,6 @@
 粒	nāp	聲	sēng	一聲
 粒	nāp	水晶	séui jīng	一顆水晶
 粒	nāp	星	sīng	一顆星
-粒	nāp	蒜頭	syun tàuh	一瓣蒜
 粒	nāp	糖	tóng	一塊糖，一塊顆糖
 額	ngaahk	汗	hohn	一頭汗
 眼	ngáan	釘	dēng	一顆釘子，一根釘子
@@ -1010,6 +1001,7 @@ pack	pēk	藥水膠布	yeuhk séui gāau bou	一包藥水膠布
 條	tiùh	棍	gwan	一根棍子，一條棍子
 條	tiùh	痕	hán	一道印
 條	tiùh	氣	hei	一肚子氣
+條	tiùh	河	hòh	一條河
 條	tiùh	巷仔	hohng jái	一條小巷
 條	tiùh	紅衫	hùhng sāam	一條金線魚
 條	tiùh	紅衫魚	hùhng sāam yú	一條金線魚
@@ -1096,6 +1088,7 @@ pack	pēk	藥水膠布	yeuhk séui gāau bou	一包藥水膠布
 脫	tyut	衫	sāam	一套衣服，一身衣服
 圍	wàih	酒	jáu	一桌酒席
 圍	wàih	和頭酒	wòh tàuh jáu	一桌謝罪酒
+回	wuìh	事	sih	一回事
 碗	wún	茶	chàh	一碗茶
 碗	wún	菜	choi	一碗菜
 碗	wún	飯	faahn	一碗飯
