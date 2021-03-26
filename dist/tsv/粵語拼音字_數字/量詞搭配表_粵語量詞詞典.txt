@@ -42,7 +42,7 @@
 班	ban1	女仔	noy5 jay2	一群女孩子
 班	ban1	鴨仔	ngab3 jay2	一群鴨子
 班	ban1	藝人	ngay6 yant4	一群藝人
-班	ban1	朋友	pank4 yaw5	一幫朋友一群朋友
+班	ban1	朋友	pank4 yaw5	一幫朋友，一群朋友
 班	ban1	細路	say3 low6	一群小孩子
 班	ban1	信徒	sont3 tow4	一群信徒
 班	ban1	小學生	siu2 hog6 sank1	一群小學生一幫小學生
@@ -232,6 +232,9 @@
 竇	daw3	雞仔	gay1 jay2	一窩小雞
 竇	daw3	豬	jeu1	一窩豬
 竇	daw3	人	yant4	一家子人
+頂	deng2	波帽	bo1 mow2	一頂鴨舌帽
+頂	deng2	喼帽	gib1 mow2	一頂鴨舌帽
+頂	deng2	漁夫帽	yeu4 fu1 mow2	一頂漁夫帽
 朵	deo2	百合	bag3 hab6	一朵百合
 朵	deo2	茶花	ca4 fa1	一朵茶花
 朵	deo2	花	fa1	一朵花
@@ -269,9 +272,6 @@
 滴	dek1	雨	yeu5	一滴雨
 丁	denk1	人	yant4	一個人
 丁	denk1	友	yaw2	一個人，孤孤單單的一個人
-頂	denk2	波帽	bo1 mow2	一頂鴨舌帽
-頂	denk2	喼帽	gib1 mow2	一頂鴨舌帽
-頂	denk2	漁夫帽	yeu4 fu1 mow2	一頂漁夫帽
 碟	dib2	菜	coi3	一盤菜
 碟	dib2	飯	fan6	一盤飯
 度	dow6	玻璃門	bo1 ley1 mun4	一扇玻璃門
@@ -658,6 +658,7 @@
 張	jeong1	蓆	jeg6	一領蓆
 張	jeong1	紙	ji2	一張紙
 張	jeong1	毡	jin1	一條毯子
+張	jeong1	證書	jenk3 seu1	一張證書
 張	jeong1	咭	kad1	一張卡片
 張	jeong1	𢃇	ley5	一張船帆
 張	jeong1	被	pey5	一床被子
@@ -820,7 +821,7 @@
 粒	lap1	炒飯	cau2 fan6	一粒炒飯
 粒	lap1	草菇	cow2 gu1	一朵草菇
 粒	lap1	彈頭	dan6 taw4	一顆彈頭
-粒	lap1	燈膽	dank1 dam2	一顆燈膽
+粒	lap1	燈膽	dank1 dam2	一顆電燈泡，一隻燈泡
 粒	lap1	電子	din6 ji2	一顆電子
 粒	lap1	花生	fa1 sank1	一顆花生
 粒	lap1	芥菜	gai3 coi3	一顆芥菜
@@ -1026,6 +1027,7 @@ pack	peg1	藥水膠布	yeog6 soy2 gau1 bow3	一包藥水膠布
 條	tiu4	盲毛	mang4 mow4	一個傻瓜
 條	tiu4	迷你裙	may4 ney5 kuant4	一條迷你裙
 條	tiu4	問題	mant6 tay4	一個問題
+條	tiu4	尾	mey5	一條尾巴
 條	tiu4	命	meng6	一條命
 條	tiu4	毛	mow4	一根毛
 條	tiu4	木	mok6	一根木料

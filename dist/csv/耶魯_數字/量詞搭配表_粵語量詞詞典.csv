@@ -43,7 +43,7 @@
 班,baan1,女仔,neui5 jai2,一群女孩子
 班,baan1,鴨仔,ngaap8 jai2,一群鴨子
 班,baan1,藝人,ngai6 yan4,一群藝人
-班,baan1,朋友,pang4 yau5,一幫朋友一群朋友
+班,baan1,朋友,pang4 yau5,一幫朋友，一群朋友
 班,baan1,細路,sai3 lou6,一群小孩子
 班,baan1,信徒,seun3 tou4,一群信徒
 班,baan1,小學生,siu2 hok9 sang1,一群小學生一幫小學生
@@ -233,6 +233,9 @@
 竇,dau3,雞仔,gai1 jai2,一窩小雞
 竇,dau3,豬,jyu1,一窩豬
 竇,dau3,人,yan4,一家子人
+頂,deng2,波帽,bo1 mou2,一頂鴨舌帽
+頂,deng2,喼帽,gip7 mou2,一頂鴨舌帽
+頂,deng2,漁夫帽,yu4 fu1 mou2,一頂漁夫帽
 朵,deu2,百合,baak8 hap9,一朵百合
 朵,deu2,茶花,cha4 fa1,一朵茶花
 朵,deu2,花,fa1,一朵花
@@ -270,9 +273,6 @@
 滴,dik7,雨,yu5,一滴雨
 丁,ding1,人,yan4,一個人
 丁,ding1,友,yau2,一個人，孤孤單單的一個人
-頂,ding2,波帽,bo1 mou2,一頂鴨舌帽
-頂,ding2,喼帽,gip7 mou2,一頂鴨舌帽
-頂,ding2,漁夫帽,yu4 fu1 mou2,一頂漁夫帽
 碟,dip2,菜,choi3,一盤菜
 碟,dip2,飯,faan6,一盤飯
 度,dou6,玻璃門,bo1 lei1 mun4,一扇玻璃門
@@ -659,6 +659,7 @@
 張,jeung1,蓆,jek9,一領蓆
 張,jeung1,紙,ji2,一張紙
 張,jeung1,毡,jin1,一條毯子
+張,jeung1,證書,jing3 syu1,一張證書
 張,jeung1,咭,kaat7,一張卡片
 張,jeung1,𢃇,lei5,一張船帆
 張,jeung1,被,pei5,一床被子
@@ -821,7 +822,7 @@
 粒,lap7,炒飯,chaau2 faan6,一粒炒飯
 粒,lap7,草菇,chou2 gu1,一朵草菇
 粒,lap7,彈頭,daan6 tau4,一顆彈頭
-粒,lap7,燈膽,dang1 daam2,一顆燈膽
+粒,lap7,燈膽,dang1 daam2,一顆電燈泡，一隻燈泡
 粒,lap7,電子,din6 ji2,一顆電子
 粒,lap7,花生,fa1 sang1,一顆花生
 粒,lap7,芥菜,gaai3 choi3,一顆芥菜
@@ -1027,6 +1028,7 @@ pack,pek7,藥水膠布,yeuk9 seui2 gaau1 bou3,一包藥水膠布
 條,tiu4,盲毛,maang4 mou4,一個傻瓜
 條,tiu4,迷你裙,mai4 nei5 kwan4,一條迷你裙
 條,tiu4,問題,man6 tai4,一個問題
+條,tiu4,尾,mei5,一條尾巴
 條,tiu4,命,meng6,一條命
 條,tiu4,毛,mou4,一根毛
 條,tiu4,木,muk9,一根木料

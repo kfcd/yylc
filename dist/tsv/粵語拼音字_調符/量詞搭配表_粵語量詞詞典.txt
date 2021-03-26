@@ -42,7 +42,7 @@
 班	bän	女仔	nóy jãy	一群女孩子
 班	bän	鴨仔	ngâb jãy	一群鴨子
 班	bän	藝人	ngày yant	一群藝人
-班	bän	朋友	pank yáw	一幫朋友一群朋友
+班	bän	朋友	pank yáw	一幫朋友，一群朋友
 班	bän	細路	sây lòw	一群小孩子
 班	bän	信徒	sônt tow	一群信徒
 班	bän	小學生	sĩu hòg sänk	一群小學生一幫小學生
@@ -232,6 +232,9 @@
 竇	dâw	雞仔	gäy jãy	一窩小雞
 竇	dâw	豬	jeü	一窩豬
 竇	dâw	人	yant	一家子人
+頂	dẽng	波帽	bö mõw	一頂鴨舌帽
+頂	dẽng	喼帽	gïb mõw	一頂鴨舌帽
+頂	dẽng	漁夫帽	yeu fü mõw	一頂漁夫帽
 朵	deõ	百合	bâg hàb	一朵百合
 朵	deõ	茶花	ca fä	一朵茶花
 朵	deõ	花	fä	一朵花
@@ -269,9 +272,6 @@
 滴	dëk	雨	yeú	一滴雨
 丁	dënk	人	yant	一個人
 丁	dënk	友	yãw	一個人，孤孤單單的一個人
-頂	dẽnk	波帽	bö mõw	一頂鴨舌帽
-頂	dẽnk	喼帽	gïb mõw	一頂鴨舌帽
-頂	dẽnk	漁夫帽	yeu fü mõw	一頂漁夫帽
 碟	dĩb	菜	côi	一盤菜
 碟	dĩb	飯	fàn	一盤飯
 度	dòw	玻璃門	bö lëy mun	一扇玻璃門
@@ -658,6 +658,7 @@
 張	jeöng	蓆	jèg	一領蓆
 張	jeöng	紙	jĩ	一張紙
 張	jeöng	毡	jïn	一條毯子
+張	jeöng	證書	jênk seü	一張證書
 張	jeöng	咭	käd	一張卡片
 張	jeöng	𢃇	léy	一張船帆
 張	jeöng	被	péy	一床被子
@@ -820,7 +821,7 @@
 粒	läp	炒飯	cãu fàn	一粒炒飯
 粒	läp	草菇	cõw gü	一朵草菇
 粒	läp	彈頭	dàn taw	一顆彈頭
-粒	läp	燈膽	dänk dãm	一顆燈膽
+粒	läp	燈膽	dänk dãm	一顆電燈泡，一隻燈泡
 粒	läp	電子	dìn jĩ	一顆電子
 粒	läp	花生	fä sänk	一顆花生
 粒	läp	芥菜	gâi côi	一顆芥菜
@@ -1026,6 +1027,7 @@ pack	pëg	藥水膠布	yeòg sõy gäu bôw	一包藥水膠布
 條	tiu	盲毛	mang mow	一個傻瓜
 條	tiu	迷你裙	may néy kuant	一條迷你裙
 條	tiu	問題	mànt tay	一個問題
+條	tiu	尾	méy	一條尾巴
 條	tiu	命	mèng	一條命
 條	tiu	毛	mow	一根毛
 條	tiu	木	mòk	一根木料
