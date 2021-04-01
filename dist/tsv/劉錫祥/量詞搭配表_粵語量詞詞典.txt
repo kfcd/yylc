@@ -1,12 +1,12 @@
 把	ba²	寶劍	bo² gim³	一把寶劍
-把	ba²	柴	chaai⁴	一綑兒柴
+把	ba²	柴	chaai⁴	一捆兒柴，一捆木柴
 把	ba²	餐刀	chaan¹ do¹	一把餐刀
 把	ba²	尺	chek³	一條尺子，一把尺子
 把	ba²	鎚	chui⁴	一柄錘子，一柄鐵錘，一把錘子，一把鐵錘
 把	ba²	鎚仔	chui⁴	一柄錘子，一柄鐵錘，一把錘子，一把鐵錘
-把	ba²	菜	choi³	一綑兒菜
+把	ba²	菜	choi³	一捆兒菜
 把	ba²	菜刀	choi³ do¹	一把菜刀
-把	ba²	草	cho²	一綑兒草
+把	ba²	草	cho²	一捆兒草
 把	ba²	火	foh²	一肚子火
 把	ba²	鉸剪	gaau³ jin²	一把剪刀
 把	ba²	鋸	geuh³	一把鋸子
@@ -218,14 +218,17 @@
 笪	daat³	定	deng⁶	一塊地方
 笪	daat³	𤶸	na¹	一塊疤
 笪	daat³	田	tin⁴	一塊地
+底	dai²	薄罉	bok⁶ chaang¹	一塊糯米粉烙餅
+底	dai²	糕	go¹	一盤糕
 底	dai²	蘿蔔糕	loh⁴ baak⁶ go¹	一整塊蘿蔔糕
+底	dai²	年糕	nin⁴ go¹	一盤年糕
 躉	dan²	大廈	daai⁶ ha⁶	一座大廈
 躉	dan²	樓	lau²	一座房子
 躉	dan²	洋樓	yeung⁴ lau²	一棟大廈
 兜	dau¹	飯	faan⁶	一盆飯
 兜	dau¹	手巾仔	sau² gan¹ jai²	一條手絹
 蔸	dau¹	草	cho²	一棵草
-蔸	dau¹	金魚	gam¹ yue⁴	一條金魚
+蔸	dau¹	金魚	gam¹ yue²	一條金魚
 蔸	dau¹	樹	sue⁶	一棵樹
 蔸	dau¹	禾	woh⁴	一叢水稻
 蔸	dau¹	友	yau²	一個傢伙，一條漢子
@@ -233,8 +236,18 @@
 竇	dau³	豬	jue¹	一窩豬
 竇	dau³	人	yan⁴	一家子人
 頂	deng²	波帽	boh¹ mo²	一頂鴨舌帽
+頂	deng²	草帽	cho² mo²	一頂草帽
+頂	deng²	風帽	fung¹ mo²	一頂風帽
 頂	deng²	喼帽	gip¹ mo²	一頂鴨舌帽
+頂	deng²	高帽	go¹ mo²	一頂高帽
+頂	deng²	軍帽	gwan¹ mo²	一頂軍帽
+頂	deng²	冷帽	laang¹ mo²	一頂毛線帽
+頂	deng²	帽	mo²	一頂帽子
+頂	deng²	安全帽	on¹ chuen⁴ mo²	一頂安全帽
+頂	deng²	雪帽	suet³ mo²	一頂風帽，一頂暖帽，一頂風雪帽
 頂	deng²	漁夫帽	yue⁴ foo¹ mo²	一頂漁夫帽
+頂	deng²	雨帽	yue⁵ mo²	一頂雨帽
+頂	deng²	浴帽	yuk⁶ mo²	一頂浴帽
 朵	deuh²	百合	baak³ hap⁶	一朵百合
 朵	deuh²	茶花	cha⁴ fa¹	一朵茶花
 朵	deuh²	花	fa¹	一朵花
@@ -488,6 +501,7 @@
 個	goh³	鎚	chui²	一把鎚子
 個	goh³	匙羹	chi⁴ gang¹	一把勺子，一把湯匙，一個勺子
 個	goh³	傳説	chuen⁴ suet³	一個傳説
+個	goh³	島嶼	do² jui⁶	一個島嶼
 個	goh³	冬瓜	dung¹ gwa¹	一個冬瓜
 個	goh³	蕃茄	faan¹ ke²	一個蕃茄
 個	goh³	發明	faat³ ming⁴	一個發明
@@ -499,6 +513,7 @@
 個	goh³	缸	gong¹	一口缸
 個	goh³	古仔	goo² jai²	一篇故事，一個故事，一則故事
 個	goh³	口	hau²	一張嘴
+個	goh³	海島	hoi² do²	一個海島
 個	goh³	砧板	jam¹ baan²	一個砧板
 個	goh³	井	jeng²	一口井，一眼井，一個井
 個	goh³	節瓜	jit³ gwa¹	一條毛瓜，一個毛瓜
@@ -527,6 +542,7 @@
 個	goh³	事實	si⁶ sat⁶	一個事實
 個	goh³	勝瓜	sing³ gwa¹	一條絲瓜，一個絲瓜
 個	goh³	小提琴	siu² tai⁴ kam⁴	一把小提琴
+個	goh³	書包	sue¹ baau¹	一個書包
 個	goh³	薯仔	sue⁴ jai²	一個馬鈴薯，一個土豆
 個	goh³	蒜頭	suen³ tau⁴	一頭大蒜，一頭蒜
 個	goh³	湯碗	tong¹ woon²	一個湯碗
@@ -569,68 +585,197 @@
 執	jap¹	米	mai⁵	一把米
 執	jap¹	毛	mo⁴	一撮毛
 執	jap¹	頭髮	tau⁴ faat³	一撮頭髮
+隻	jek³	白鴿	baak⁶ gap²	一隻白鴿
+隻	jek³	白鶴	baak⁶ hok²	一隻白鶴
+隻	jek³	斑鳩	baan¹ kau¹	一隻斑鳩
+隻	jek³	斑鳩	baan¹ kau¹	一隻斑鳩
+隻	jek³	斑馬	baan¹ ma⁵	一匹斑馬
+隻	jek³	北極熊	bak¹ gik⁶ hung⁴	一隻北極熊
 隻	jek³	鼻哥	bei⁶ goh¹	一隻鼻子，一個鼻子，一隻鼻
 隻	jek³	錶	biu¹	一塊錶
 隻	jek³	布料	bo³ liu⁶	一種布料
+隻	jek³	暴龍	bo⁶ lung⁴	一隻暴龍
 隻	jek³	杯	booi¹	一個杯子
 隻	jek³	叉	cha¹	一把叉子
 隻	jek³	茶葉蛋	cha⁴ yip⁶ daan²	一個茶葉蛋
+隻	jek³	臭鼬	chau³ yau⁶	一隻臭鼬
+隻	jek³	青蛙	cheng¹ wa¹	一隻青蛙
 隻	jek³	窗	cheung¹	一扇窗戶
 隻	jek³	唱碟	cheung³ dip²	一張唱片
 隻	jek³	唱片	cheung³ pin²	一張唱片
+隻	jek³	長頸鹿	cheung⁴ geng² luk²	一頭長頸鹿，一隻長頸鹿
+隻	jek³	長毛象	cheung⁴ mo⁴ jeung⁶	一頭長毛象
+隻	jek³	刺蝟	chi³ wai⁶	一隻刺蝟
 隻	jek³	匙羹	chi⁴ gang¹	一把勺子，一把湯匙，一個勺子
+隻	jek³	蜻蜓	ching¹ ting⁴	一隻蜻蜓
+隻	jek³	倉鼠	chong¹ sue²	一隻倉鼠
+隻	jek³	松鼠	chung⁴ sue²	一隻松鼠
+隻	jek³	傳信鴿	chuen⁴ sun³ gap²	一隻傳信鴿
 隻	jek³	大笨象	daai⁶ ban⁶ jeung⁶	一頭大象
+隻	jek³	大猩猩	daai⁶ sing¹ sing¹	一隻大猩猩
+隻	jek³	丹頂鶴	daan¹ ding² hok²	一隻丹頂鶴
 隻	jek³	蛋	daan²	一個雞蛋
+隻	jek³	啄木鳥	deuk³ muk⁶ niu⁵	一隻啄木鳥
 隻	jek³	碟	dip²	一隻盤子，一個盤子，一個碟子
+隻	jek³	袋熊	doi⁶ hung⁴	一隻袋熊
+隻	jek³	袋鼠	doi⁶ sue²	一隻袋鼠
+隻	jek³	杜鵑	do⁶ guen¹	一隻杜鵑
 隻	jek³	冬菇	dung¹ goo¹	一朵香菇，一朵蘑菇，一朵乾蘑菇
+隻	jek³	花豹	fa¹ paau³	一隻花豹
+隻	jek³	花鼠	fa¹ sue²	一隻花鼠
 隻	jek³	筷子	faai³ ji²	一根筷子
 隻	jek³	飯殼	faan⁶ hok³	一把勺子，一把飯勺
 隻	jek³	飛翔船	fei¹ cheung⁴ suen⁴	一艘氣墊船
+隻	jek³	飛鼠	fei¹ sue²	一隻蝙蝠
+隻	jek³	火雞	foh² gai¹	一隻火雞
+隻	jek³	蝠鼠	fuk¹ sue²	一隻蝙蝠
 隻	jek³	戒指	gaai³ ji²	一枚戒指
+隻	jek³	甲蟲	gaap³ chung⁴	一隻甲蟲
+隻	jek³	曱甴	gaat⁶ jaat²	一隻蟑螂
 隻	jek³	雞	gai¹	一隻雞
 隻	jek³	雞蛋	gai¹ daan²	一個雞蛋
+隻	jek³	雞乸	gai¹ na²	一隻母雞
 隻	jek³	羹	gang¹	一把勺子，一把湯匙，一個勺子
+隻	jek³	鴿	gap²	一隻鴿子
 隻	jek³	狗	gau²	一條狗，一隻狗
 隻	jek³	腳	geuk³	一隻腳
 隻	jek³	殭屍	geung¹ si¹	一具殭屍，一個殭屍
+隻	jek³	劍龍	gim³ lung⁴	一隻劍龍
 隻	jek³	歌	goh¹	一首歌
 隻	jek³	歌仔	goh¹ jai²	一首歌，一首歌兒
+隻	jek³	高角羚	go¹ gok³ ling⁴	一頭高角羚
 隻	jek³	故仔	goo² jai²	一個故事
 隻	jek³	古仔	goo² jai²	一篇故事，一個故事，一則故事
 隻	jek³	股票	goo² piu³	一種股票
 隻	jek³	鬼	gwai²	一個鬼，一隻鬼
+隻	jek³	果子狸	gwoh² ji² lei⁴	一隻果子狸
+隻	jek³	蝦	ha¹	一隻蝦，一隻蝦子
 隻	jek³	蝦公	ha¹ gung¹	一隻蝦
 隻	jek³	鞋	haai⁴	一隻鞋子
+隻	jek³	蟹	haai⁵	一隻螃蟹
+隻	jek³	黑熊	hak¹ hung⁴	一隻黑熊
+隻	jek³	黑豹	hak¹ paau³	一隻黑豹
+隻	jek³	黑猩猩	hak¹ sing¹ sing¹	一隻黑猩猩
+隻	jek³	河馬	hoh⁴ ma⁵	一頭河馬
+隻	jek³	海獺	hoi² chaat³	一隻海獺
+隻	jek³	海膽	hoi² daam²	一隻海膽
+隻	jek³	海龜	hoi² gwai¹	一隻海龜
+隻	jek³	海象	hoi² jeung⁶	一頭海象
+隻	jek³	海狸	hoi² lei⁴	一隻海狸
+隻	jek³	海馬	hoi² ma⁵	一隻海馬
+隻	jek³	海鷗	hoi² ngau¹	一隻海鷗
+隻	jek³	海牛	hoi² ngau⁴	一頭海牛
+隻	jek³	海豹	hoi² paau³	一隻海豹
+隻	jek³	海獅	hoi² si¹	一頭海獅
+隻	jek³	海星	hoi² sing¹	一隻海星
+隻	jek³	海豚	hoi² tuen⁴	一條海豚，一頭海豚
+隻	jek³	鶴	hok²	一隻鶴
+隻	jek³	豪豬	ho⁴ jue¹	一頭豪豬
 隻	jek³	恐龍	hung² lung⁴	一條恐龍
+隻	jek³	熊	hung⁴	一隻熊
+隻	jek³	紅鶴	hung⁴ hok²	一隻紅鶴
+隻	jek³	熊貓	hung⁴ maau¹	一隻熊貓
+隻	jek³	紅毛猩猩	hung⁴ mo⁴ sing¹ sing¹	一隻紅毛猩猩
 隻	jek³	雀	jeuk²	一隻鳥
 隻	jek³	雀仔	jeuk³ jai²	一隻鳥
+隻	jek³	蟑螂	jeung¹ long⁴	一隻蟑螂
+隻	jek³	知更鳥	ji¹ gang¹ niu⁵	一隻知更鳥
+隻	jek³	蜘蛛	ji¹ jue¹	一隻蜘蛛
+隻	jek³	箭豬	jin³ jue¹	一頭豪豬
 隻	jek³	戰艦	jin³ laam⁶	一艘軍艦
-隻	jek³	豬	jue¹	一口豬
+隻	jek³	豬	jue¹	一頭豬，一口豬
 隻	jek³	棋	kei⁴	一著棋子，一顆棋子，一步棋子，一枚棋子，一隻棋子
+隻	jek³	企鵝	kei⁵ ngoh⁴	一隻企鵝
 隻	jek³	箍臣	koo¹ san²	一個軟墊子，一個坐墊
+隻	jek³	騾	lui⁴	一頭騾子
+隻	jek³	雷龍	lui⁴ lung⁴	一隻雷龍
+隻	jek³	旅鼠	lui⁵ sue²	一隻旅鼠
+隻	jek³	羚羊	ling⁴ yeung⁴	一頭羚羊
+隻	jek³	獵豹	lip⁶ paau³	一隻獵豹
+隻	jek³	駱馬	lok³ ma⁵	一隻駱馬，一頭駱馬，一匹駱馬
+隻	jek³	駱駝	lok³ toh⁴	一頭駱駝
+隻	jek³	狼	long⁴	一條狼，一匹狼，一隻狼
+隻	jek³	驢	lo⁴	一頭驢子
+隻	jek³	老虎	lo⁵ foo²	一頭老虎，一隻老虎
+隻	jek³	老鼠	lo⁵ sue²	一隻老鼠
+隻	jek³	老鷹	lo⁵ ying¹	一隻老鷹
+隻	jek³	鹿	luk²	一頭鹿，一隻鹿
+隻	jek³	麻雀	ma⁴ jeuk³	一隻麻雀
 隻	jek³	馬	ma⁵	一匹馬
+隻	jek³	馬騮	ma⁵ lau¹	一隻猴子
+隻	jek³	螞蟻	ma⁵ ngai⁵	一隻螞蟻
+隻	jek³	貓	maau¹	一隻貓
+隻	jek³	貓頭鷹	maau¹ tau⁴ ying¹	一隻貓頭鷹
+隻	jek³	蚊	man¹	一隻蚊子
 隻	jek³	襪	mat⁶	一隻襪子
+隻	jek³	蜜蜂	mat⁶ fung¹	一隻蜜蜂
+隻	jek³	麋鹿	mei⁴ luk²	一頭麋鹿，一隻麋鹿
 隻	jek³	舞	mo⁵	一支舞
+隻	jek³	鼯鼠	ng⁴ sue²	一隻鼯鼠
 隻	jek³	牙	nga⁴	一顆牙齒
 隻	jek³	眼	ngaan⁵	一隻眼睛，一隻眼
 隻	jek³	鴨	ngaap³	一隻鴨子
+隻	jek³	蟻	ngai⁵	一隻螞蟻
 隻	jek³	牛	ngau⁴	一頭牛
+隻	jek³	鵝	ngoh²	一隻鵝
 隻	jek³	牌子	paai⁴ ji²	一個品牌，一個牌子
+隻	jek³	豹	paau³	一隻豹
 隻	jek³	皮鞋	pei⁴ haai⁴	一隻皮鞋
+隻	jek³	蝙蝠	pin¹ fuk¹	一隻蝙蝠
 隻	jek³	平底鑊	ping⁴ dai² wok⁶	一口平底鍋，一隻平底鍋
+隻	jek³	瓢蟲	piu⁴ chung⁴	一隻瓢蟲
+隻	jek³	螃蟹	pong⁴ haai⁵	一隻螃蟹
+隻	jek³	三角龍	saam¹ gok³ lung⁴	一隻三角龍
+隻	jek³	山羊	saan¹ yeung⁴	一頭山羊
+隻	jek³	犀牛	sai¹ ngau⁴	一頭犀牛
 隻	jek³	手	sau²	一隻手
+隻	jek³	手襪	sau² mat²	一隻手套
+隻	jek³	水母	sui² mo⁵	一隻水母
+隻	jek³	水牛	sui² ngau⁴	一頭水牛
+隻	jek³	信天翁	sun³ tin¹ yung¹	一隻信天翁
+隻	jek³	馴鹿	sun⁴ luk²	一頭馴鹿，一隻馴鹿
+隻	jek³	獅子	si¹ ji²	一頭獅子
 隻	jek³	豉油碟	si⁶ yau⁴ dip²	一個小盤子，一個小碟兒，一個醬油碟子
+隻	jek³	蟋蟀	sik¹ sut¹	一隻蟋蟀
+隻	jek³	蜥蜴	sik¹ yik⁶	一隻蜥蜴
+隻	jek³	猩猩	sing¹ sing¹	一隻猩猩
 隻	jek³	小船	siu² suen⁴	一條小船
 隻	jek³	梳	soh¹	一把梳子
+隻	jek³	樹熊	sue⁶ hung⁴	無尾熊，考拉熊
+隻	jek³	樹懶	sue⁶ laan⁵	一隻樹懶
+隻	jek³	雪豹	suet³ paau³	一隻雪豹
+隻	jek³	鵜鶘	tai⁴ woo⁴	一隻鵜鶘
+隻	jek³	天竺鼠	tin¹ juk¹ sue²	一隻天竺鼠
+隻	jek³	天鵝	tin¹ ngoh⁴	一隻天鵝
+隻	jek³	鴕鳥	toh⁴ niu⁵	一隻鴕鳥
+隻	jek³	螳螂	tong⁴ long⁴	一隻螳螂
+隻	jek³	塘尾	tong⁴ mei¹	一隻蜻蜓
+隻	jek³	塘鵝	tong⁴ ngoh⁴	一隻鵜鶘
+隻	jek³	土鼠	to² sue²	一隻土鼠
 隻	jek³	兔	to³	一隻兔子
+隻	jek³	禿鷹	tuk¹ ying¹	一隻禿鷹
 隻	jek³	鍋	woh¹	一口鍋
+隻	jek³	蝸牛	woh¹ ngau⁴	一隻蝸牛
 隻	jek³	鑊	wok⁶	一口鍋，一個鍋，一口鐵鍋，一口炒菜鍋
+隻	jek³	烏鴉	woo¹ nga¹	一隻烏鴉
+隻	jek³	烏蠅	woo¹ ying¹	一隻蒼蠅
+隻	jek³	蝴蝶	woo⁴ dip²	一隻蝴蝶
+隻	jek³	狐狸	woo⁴ lei²	一隻狐狸
 隻	jek³	碗	woon²	一個碗
+隻	jek³	浣熊	woon⁵ hung⁴	一隻浣熊
+隻	jek³	疣豬	yau⁴ jue¹	一頭疣豬
 隻	jek³	嘢	ye⁵	一個傢伙
+隻	jek³	野豬	ye⁵ jue¹	一頭野豬
+隻	jek³	野鹿	ye⁵ luk²	一頭野鹿，一隻野鹿
+隻	jek³	夜鶯	ye⁶ ang¹	一隻夜鶯
 隻	jek³	藥	yeuk⁶	一種藥
 隻	jek³	羊	yeung⁴	一頭羊
 隻	jek³	椅墊	yi² din³	一個軟墊子，一個坐墊
 隻	jek³	耳仔	yi⁵ jai²	一隻耳朵
+隻	jek³	翼手龍	yik⁶ sau² lung⁴	一隻翼手龍
+隻	jek³	鼴鼠	yin² sue²	一隻鼴鼠
+隻	jek³	燕	yin³	一隻燕子
+隻	jek³	鸚鵡	ying¹ mo⁵	一隻鸚鵡
 隻	jek³	褥仔	yuk⁶ jai²	一個軟墊子，一個坐墊
 樽	jun¹	拔蘭地	bat⁶ laan¹ dei²	一瓶白蘭地
 樽	jun¹	橙汁	chaang² jap¹	一瓶柳橙汁，一瓶橘子汁
@@ -763,6 +908,7 @@
 座	joh⁶	大堂	daai⁶ tong⁴	一座大堂
 座	joh⁶	燈塔	dang¹ taap³	一座燈塔
 座	joh⁶	雕像	diu¹ jeung⁶	一座雕像
+座	joh⁶	島嶼	do² jui⁶	一座島嶼
 座	joh⁶	佛寺	fat¹ ji⁶	一座佛寺
 座	joh⁶	火山	foh² saan¹	一座火山
 座	joh⁶	教堂	gaau³ tong⁴	一座教堂
@@ -774,6 +920,7 @@
 座	joh⁶	古城	goo² sing⁴	一座古城
 座	joh⁶	公寓	gung¹ yue⁶	一棟公寓，一套公寓，一幢公寓
 座	joh⁶	公園	gung¹ yuen²	一座公園
+座	joh⁶	海島	hoi² do²	一座海島
 座	joh⁶	寺	ji⁶	一座寺
 座	joh⁶	鐘樓	jung¹ lau⁴	一座鐘樓
 座	joh⁶	住宅	jue⁶ jaak⁶	一所住宅，一座住宅
@@ -968,6 +1115,7 @@ pack	pek¹	藥水膠布	yeuk⁶ sui² gaau¹ bo³	一包藥水膠布
 條	tiu⁴	白瓜	baak⁶ gwa¹	一條菜瓜，一條越瓜
 條	tiu⁴	白蘿蔔	baak⁶ loh⁴ baak⁶	一條白蘿蔔
 條	tiu⁴	白頭髮	baak⁶ tau⁴ faat³	一根白頭髮
+條	tiu⁴	變色龍	bin³ sik¹ lung⁴	一條變色龍
 條	tiu⁴	半截裙	boon³ jit⁶ kwan⁴	一條裙子
 條	tiu⁴	餐巾	chaan¹ gan¹	一條餐巾
 條	tiu⁴	赤𩶘	chek³ laap⁶	一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
@@ -981,20 +1129,24 @@ pack	pek¹	藥水膠布	yeuk⁶ sui² gaau¹ bo³	一包藥水膠布
 條	tiu⁴	曹白	cho⁴ baak⁶	一條鰳魚，一條鱠魚，一條快魚
 條	tiu⁴	蔥	chung¹	一根蔥，一棵蔥
 條	tiu⁴	村	chuen¹	一條村，一個村莊
+條	tiu⁴	大白鯊	daai⁶ baak⁶ sa¹	一條大白鯊
 條	tiu⁴	大髀	daai⁶ bei²	一條大腿
 條	tiu⁴	大地魚	daai⁶ dei⁶ yue²	一條比目魚
 條	tiu⁴	單車鏈	daan¹ che¹ lin⁶	一根鏈條，一條滾子鏈
 條	tiu⁴	底褲	dai² foo³	一條內褲
 條	tiu⁴	底裙	dai² kwan⁴	一條襯裙
+條	tiu⁴	毒蛇	duk⁶ se⁴	一條毒蛇
 條	tiu⁴	短裙	duen² kwan⁴	一條裙子
 條	tiu⁴	化骨龍	fa³ gwat¹ lung⁴	一個小孩子，一個淘氣的孩子
 條	tiu⁴	廢柴	fai³ chaai⁴	一個廢物，一個沒用的人
 條	tiu⁴	褲	foo³	一條褲子
+條	tiu⁴	褲帶	foo³ daai²	一條褲帶
 條	tiu⁴	嘉𩶘	ga¹ laap⁶	一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
 條	tiu⁴	街	gaai¹	一條街
 條	tiu⁴	格仔裙	gaak³ jai² kwan⁴	一條花格裙子
 條	tiu⁴	膠喉	gaau¹ hau⁴	一根膠管
 條	tiu⁴	雞泡魚	gai¹ po⁵ yue⁴	一條河豚
+條	tiu⁴	金魚	gam¹ yue²	一條金魚
 條	tiu⁴	枸杞	gau² gei²	一條枸杞
 條	tiu⁴	頸	geng²	一條脖子
 條	tiu⁴	頸巾	geng² gan¹	一條圍巾
@@ -1002,6 +1154,7 @@ pack	pek¹	藥水膠布	yeuk⁶ sui² gaau¹ bo³	一包藥水膠布
 條	tiu⁴	棍	gwan³	一根棍子，一條棍子
 條	tiu⁴	痕	han²	一道印
 條	tiu⁴	氣	hei³	一肚子氣
+條	tiu⁴	響尾蛇	heung² mei⁵ se⁴	一條響尾蛇
 條	tiu⁴	河	hoh⁴	一條河
 條	tiu⁴	巷仔	hong⁶ jai²	一條小巷
 條	tiu⁴	紅衫	hung⁴ saam¹	一條金線魚
@@ -1012,11 +1165,13 @@ pack	pek¹	藥水膠布	yeuk⁶ sui² gaau¹ bo³	一包藥水膠布
 條	tiu⁴	左口魚	joh² hau² yue²	一條比目魚
 條	tiu⁴	竹	juk¹	一根竹竿，一根竹子
 條	tiu⁴	茄子	ke² ji²	一條茄子
+條	tiu⁴	鯨魚	king¹ yue²	一條鯨魚
 條	tiu⁴	橋	kiu²	一個點子
 條	tiu⁴	曲線	kuk¹ sin³	一條曲線
 條	tiu⁴	裙	kwan⁴	一條裙子，一條洋裙
 條	tiu⁴	裙帶	kwan⁴ daai³	一條裙帶
 條	tiu⁴	罅	la³	一道縫，一條縫
+條	tiu⁴	藍鯨	laam⁴ king¹	一條藍鯨
 條	tiu⁴	爛數	laan⁶ so³	一筆爛帳
 條	tiu⁴	𩶘魚	laap⁶ yue²	一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
 條	tiu⁴	褸裙	lau¹ kwan²	一條大衣式連衣裙
@@ -1029,16 +1184,24 @@ pack	pek¹	藥水膠布	yeuk⁶ sui² gaau¹ bo³	一包藥水膠布
 條	tiu⁴	問題	man⁶ tai⁴	一個問題
 條	tiu⁴	尾	mei⁵	一條尾巴
 條	tiu⁴	命	meng⁶	一條命
+條	tiu⁴	蟒蛇	mong⁵ se⁴	一條蟒蛇
 條	tiu⁴	毛	mo⁴	一根毛
+條	tiu⁴	毛毛蟲	mo⁴ mo⁴ chung⁴	一條毛毛蟲
 條	tiu⁴	木	muk⁶	一根木料
+條	tiu⁴	蝻蛇	naam⁴ se⁴	一條蟒蛇
 條	tiu⁴	女	nui²	一個女子，一個女朋友
+條	tiu⁴	眼鏡蛇	ngaan⁵ geng² se⁴	一條眼鏡蛇
 條	tiu⁴	矮瓜	ngai² gwa¹	一條茄子，一個茄子
+條	tiu⁴	鱷魚	ngok⁶ yue⁴	一條鱷魚
+條	tiu⁴	皮帶	pei⁴ daai²	一條皮帶
 條	tiu⁴	骿骨	peng¹ gwat¹	一條肋骨
 條	tiu⁴	沙甸魚	sa¹ din¹ yue²	一條沙丁魚
 條	tiu⁴	沙𩶘	sa¹ laap⁶	一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
+條	tiu⁴	鯊魚	sa¹ yue²	一條鯊魚
 條	tiu⁴	衫裙	saam¹ kwan⁴	一條連衣裙
 條	tiu⁴	西洋菜	sai¹ yeung⁴ choi³	一條豆瓣葉，一條水田芥，一條水甕菜
 條	tiu⁴	生命	sang¹ meng⁶	一條生命
+條	tiu⁴	蛇	se⁴	一條蛇
 條	tiu⁴	水草	sui² cho²	一根水草
 條	tiu⁴	水喉	sui² hau⁴	一條水管
 條	tiu⁴	屍	si¹	一具死屍，一具屍體

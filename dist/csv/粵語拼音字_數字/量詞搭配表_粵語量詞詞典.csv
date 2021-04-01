@@ -1,13 +1,13 @@
 量詞,量詞拼音,名詞,名詞拼音,國語
 把,ba2,寶劍,bow2 gim3,一把寶劍
-把,ba2,柴,cai4,一綑兒柴
+把,ba2,柴,cai4,一捆兒柴，一捆木柴
 把,ba2,餐刀,can1 dow1,一把餐刀
 把,ba2,尺,ceg3,一條尺子，一把尺子
 把,ba2,鎚,coy4,一柄錘子，一柄鐵錘，一把錘子，一把鐵錘
 把,ba2,鎚仔,coy4,一柄錘子，一柄鐵錘，一把錘子，一把鐵錘
-把,ba2,菜,coi3,一綑兒菜
+把,ba2,菜,coi3,一捆兒菜
 把,ba2,菜刀,coi3 dow1,一把菜刀
-把,ba2,草,cow2,一綑兒草
+把,ba2,草,cow2,一捆兒草
 把,ba2,火,fo2,一肚子火
 把,ba2,鉸剪,gau3 jin2,一把剪刀
 把,ba2,鋸,geo3,一把鋸子
@@ -219,14 +219,17 @@
 笪,dad3,定,deng6,一塊地方
 笪,dad3,𤶸,na1,一塊疤
 笪,dad3,田,tin4,一塊地
+底,day2,薄罉,bog6 cang1,一塊糯米粉烙餅
+底,day2,糕,gow1,一盤糕
 底,day2,蘿蔔糕,lo4 bag6 gow1,一整塊蘿蔔糕
+底,day2,年糕,nin4 gow1,一盤年糕
 躉,dant2,大廈,dai6 ha6,一座大廈
 躉,dant2,樓,law2,一座房子
 躉,dant2,洋樓,yeong4 law2,一棟大廈
 兜,daw1,飯,fan6,一盆飯
 兜,daw1,手巾仔,saw2 gant1 jay2,一條手絹
 蔸,daw1,草,cow2,一棵草
-蔸,daw1,金魚,gamp1 yeu4,一條金魚
+蔸,daw1,金魚,gamp1 yeu2,一條金魚
 蔸,daw1,樹,seu6,一棵樹
 蔸,daw1,禾,wo4,一叢水稻
 蔸,daw1,友,yaw2,一個傢伙，一條漢子
@@ -234,8 +237,18 @@
 竇,daw3,豬,jeu1,一窩豬
 竇,daw3,人,yant4,一家子人
 頂,deng2,波帽,bo1 mow2,一頂鴨舌帽
+頂,deng2,草帽,cow2 mow2,一頂草帽
+頂,deng2,風帽,fonk1 mow2,一頂風帽
 頂,deng2,喼帽,gib1 mow2,一頂鴨舌帽
+頂,deng2,高帽,gow1 mow2,一頂高帽
+頂,deng2,軍帽,guant1 mow2,一頂軍帽
+頂,deng2,冷帽,lang1 mow2,一頂毛線帽
+頂,deng2,帽,mow2,一頂帽子
+頂,deng2,安全帽,on1 ceun4 mow2,一頂安全帽
+頂,deng2,雪帽,seud3 mow2,一頂風帽，一頂暖帽，一頂風雪帽
 頂,deng2,漁夫帽,yeu4 fu1 mow2,一頂漁夫帽
+頂,deng2,雨帽,yeu5 mow2,一頂雨帽
+頂,deng2,浴帽,yok6 mow2,一頂浴帽
 朵,deo2,百合,bag3 hab6,一朵百合
 朵,deo2,茶花,ca4 fa1,一朵茶花
 朵,deo2,花,fa1,一朵花
@@ -489,6 +502,7 @@
 個,go3,鎚,coy2,一把鎚子
 個,go3,匙羹,ci4 gank1,一把勺子，一把湯匙，一個勺子
 個,go3,傳説,ceun4 seud3,一個傳説
+個,go3,島嶼,dow2 joy6,一個島嶼
 個,go3,冬瓜,donk1 gua1,一個冬瓜
 個,go3,蕃茄,fan1 ke2,一個蕃茄
 個,go3,發明,fad3 menk4,一個發明
@@ -500,6 +514,7 @@
 個,go3,缸,gong1,一口缸
 個,go3,古仔,gu2 jay2,一篇故事，一個故事，一則故事
 個,go3,口,haw2,一張嘴
+個,go3,海島,hoi2 dow2,一個海島
 個,go3,砧板,jamp1 ban2,一個砧板
 個,go3,井,jeng2,一口井，一眼井，一個井
 個,go3,節瓜,jid3 gua1,一條毛瓜，一個毛瓜
@@ -528,6 +543,7 @@
 個,go3,事實,si6 sat6,一個事實
 個,go3,勝瓜,senk3 gua1,一條絲瓜，一個絲瓜
 個,go3,小提琴,siu2 tay4 kamp4,一把小提琴
+個,go3,書包,seu1 bau1,一個書包
 個,go3,薯仔,seu4 jay2,一個馬鈴薯，一個土豆
 個,go3,蒜頭,seun3 taw4,一頭大蒜，一頭蒜
 個,go3,湯碗,tong1 wun2,一個湯碗
@@ -570,68 +586,197 @@
 執,jap1,米,may5,一把米
 執,jap1,毛,mow4,一撮毛
 執,jap1,頭髮,taw4 fad3,一撮頭髮
+隻,jeg3,白鴿,bag6 gap2,一隻白鴿
+隻,jeg3,白鶴,bag6 hog2,一隻白鶴
+隻,jeg3,斑鳩,ban1 kaw1,一隻斑鳩
+隻,jeg3,斑鳩,ban1 kaw1,一隻斑鳩
+隻,jeg3,斑馬,ban1 ma5,一匹斑馬
+隻,jeg3,北極熊,bak1 gek6 honk4,一隻北極熊
 隻,jeg3,鼻哥,bey6 go1,一隻鼻子，一個鼻子，一隻鼻
 隻,jeg3,錶,biu1,一塊錶
 隻,jeg3,布料,bow3 liu6,一種布料
+隻,jeg3,暴龍,bow6 lonk4,一隻暴龍
 隻,jeg3,杯,bui1,一個杯子
 隻,jeg3,叉,ca1,一把叉子
 隻,jeg3,茶葉蛋,ca4 yib6 dan2,一個茶葉蛋
+隻,jeg3,臭鼬,caw3 yaw6,一隻臭鼬
+隻,jeg3,青蛙,ceng1 wa1,一隻青蛙
 隻,jeg3,窗,ceong1,一扇窗戶
 隻,jeg3,唱碟,ceong3 dib2,一張唱片
 隻,jeg3,唱片,ceong3 pin2,一張唱片
+隻,jeg3,長頸鹿,ceong4 geng2 lok2,一頭長頸鹿，一隻長頸鹿
+隻,jeg3,長毛象,ceong4 mow4 jeong6,一頭長毛象
+隻,jeg3,刺蝟,ci3 way6,一隻刺蝟
 隻,jeg3,匙羹,ci4 gank1,一把勺子，一把湯匙，一個勺子
+隻,jeg3,蜻蜓,cenk1 tenk4,一隻蜻蜓
+隻,jeg3,倉鼠,cong1 seu2,一隻倉鼠
+隻,jeg3,松鼠,conk4 seu2,一隻松鼠
+隻,jeg3,傳信鴿,ceun4 sont3 gap2,一隻傳信鴿
 隻,jeg3,大笨象,dai6 bant6 jeong6,一頭大象
+隻,jeg3,大猩猩,dai6 senk1 senk1,一隻大猩猩
+隻,jeg3,丹頂鶴,dan1 denk2 hog2,一隻丹頂鶴
 隻,jeg3,蛋,dan2,一個雞蛋
+隻,jeg3,啄木鳥,deog3 mok6 niu5,一隻啄木鳥
 隻,jeg3,碟,dib2,一隻盤子，一個盤子，一個碟子
+隻,jeg3,袋熊,doi6 honk4,一隻袋熊
+隻,jeg3,袋鼠,doi6 seu2,一隻袋鼠
+隻,jeg3,杜鵑,dow6 geun1,一隻杜鵑
 隻,jeg3,冬菇,donk1 gu1,一朵香菇，一朵蘑菇，一朵乾蘑菇
+隻,jeg3,花豹,fa1 pau3,一隻花豹
+隻,jeg3,花鼠,fa1 seu2,一隻花鼠
 隻,jeg3,筷子,fai3 ji2,一根筷子
 隻,jeg3,飯殼,fan6 hog3,一把勺子，一把飯勺
 隻,jeg3,飛翔船,fey1 ceong4 seun4,一艘氣墊船
+隻,jeg3,飛鼠,fey1 seu2,一隻蝙蝠
+隻,jeg3,火雞,fo2 gay1,一隻火雞
+隻,jeg3,蝠鼠,fok1 seu2,一隻蝙蝠
 隻,jeg3,戒指,gai3 ji2,一枚戒指
+隻,jeg3,甲蟲,gab3 conk4,一隻甲蟲
+隻,jeg3,曱甴,gad6 jad2,一隻蟑螂
 隻,jeg3,雞,gay1,一隻雞
 隻,jeg3,雞蛋,gay1 dan2,一個雞蛋
+隻,jeg3,雞乸,gay1 na2,一隻母雞
 隻,jeg3,羹,gank1,一把勺子，一把湯匙，一個勺子
+隻,jeg3,鴿,gap2,一隻鴿子
 隻,jeg3,狗,gaw2,一條狗，一隻狗
 隻,jeg3,腳,geog3,一隻腳
 隻,jeg3,殭屍,geong1 si1,一具殭屍，一個殭屍
+隻,jeg3,劍龍,gim3 lonk4,一隻劍龍
 隻,jeg3,歌,go1,一首歌
 隻,jeg3,歌仔,go1 jay2,一首歌，一首歌兒
+隻,jeg3,高角羚,gow1 gog3 lenk4,一頭高角羚
 隻,jeg3,故仔,gu2 jay2,一個故事
 隻,jeg3,古仔,gu2 jay2,一篇故事，一個故事，一則故事
 隻,jeg3,股票,gu2 piu3,一種股票
 隻,jeg3,鬼,guay2,一個鬼，一隻鬼
+隻,jeg3,果子狸,guo2 ji2 ley4,一隻果子狸
+隻,jeg3,蝦,ha1,一隻蝦，一隻蝦子
 隻,jeg3,蝦公,ha1 gonk1,一隻蝦
 隻,jeg3,鞋,hai4,一隻鞋子
+隻,jeg3,蟹,hai5,一隻螃蟹
+隻,jeg3,黑熊,hak1 honk4,一隻黑熊
+隻,jeg3,黑豹,hak1 pau3,一隻黑豹
+隻,jeg3,黑猩猩,hak1 senk1 senk1,一隻黑猩猩
+隻,jeg3,河馬,ho4 ma5,一頭河馬
+隻,jeg3,海獺,hoi2 cad3,一隻海獺
+隻,jeg3,海膽,hoi2 dam2,一隻海膽
+隻,jeg3,海龜,hoi2 guay1,一隻海龜
+隻,jeg3,海象,hoi2 jeong6,一頭海象
+隻,jeg3,海狸,hoi2 ley4,一隻海狸
+隻,jeg3,海馬,hoi2 ma5,一隻海馬
+隻,jeg3,海鷗,hoi2 ngaw1,一隻海鷗
+隻,jeg3,海牛,hoi2 ngaw4,一頭海牛
+隻,jeg3,海豹,hoi2 pau3,一隻海豹
+隻,jeg3,海獅,hoi2 si1,一頭海獅
+隻,jeg3,海星,hoi2 senk1,一隻海星
+隻,jeg3,海豚,hoi2 teun4,一條海豚，一頭海豚
+隻,jeg3,鶴,hog2,一隻鶴
+隻,jeg3,豪豬,how4 jeu1,一頭豪豬
 隻,jeg3,恐龍,honk2 lonk4,一條恐龍
+隻,jeg3,熊,honk4,一隻熊
+隻,jeg3,紅鶴,honk4 hog2,一隻紅鶴
+隻,jeg3,熊貓,honk4 mau1,一隻熊貓
+隻,jeg3,紅毛猩猩,honk4 mow4 senk1 senk1,一隻紅毛猩猩
 隻,jeg3,雀,jeog2,一隻鳥
 隻,jeg3,雀仔,jeog3 jay2,一隻鳥
+隻,jeg3,蟑螂,jeong1 long4,一隻蟑螂
+隻,jeg3,知更鳥,ji1 gank1 niu5,一隻知更鳥
+隻,jeg3,蜘蛛,ji1 jeu1,一隻蜘蛛
+隻,jeg3,箭豬,jin3 jeu1,一頭豪豬
 隻,jeg3,戰艦,jin3 lam6,一艘軍艦
-隻,jeg3,豬,jeu1,一口豬
+隻,jeg3,豬,jeu1,一頭豬，一口豬
 隻,jeg3,棋,key4,一著棋子，一顆棋子，一步棋子，一枚棋子，一隻棋子
+隻,jeg3,企鵝,key5 ngo4,一隻企鵝
 隻,jeg3,箍臣,ku1 sant2,一個軟墊子，一個坐墊
+隻,jeg3,騾,loy4,一頭騾子
+隻,jeg3,雷龍,loy4 lonk4,一隻雷龍
+隻,jeg3,旅鼠,loy5 seu2,一隻旅鼠
+隻,jeg3,羚羊,lenk4 yeong4,一頭羚羊
+隻,jeg3,獵豹,lib6 pau3,一隻獵豹
+隻,jeg3,駱馬,log3 ma5,一隻駱馬，一頭駱馬，一匹駱馬
+隻,jeg3,駱駝,log3 to4,一頭駱駝
+隻,jeg3,狼,long4,一條狼，一匹狼，一隻狼
+隻,jeg3,驢,low4,一頭驢子
+隻,jeg3,老虎,low5 fu2,一頭老虎，一隻老虎
+隻,jeg3,老鼠,low5 seu2,一隻老鼠
+隻,jeg3,老鷹,low5 yenk1,一隻老鷹
+隻,jeg3,鹿,lok2,一頭鹿，一隻鹿
+隻,jeg3,麻雀,ma4 jeog3,一隻麻雀
 隻,jeg3,馬,ma5,一匹馬
+隻,jeg3,馬騮,ma5 law1,一隻猴子
+隻,jeg3,螞蟻,ma5 ngay5,一隻螞蟻
+隻,jeg3,貓,mau1,一隻貓
+隻,jeg3,貓頭鷹,mau1 taw4 yenk1,一隻貓頭鷹
+隻,jeg3,蚊,mant1,一隻蚊子
 隻,jeg3,襪,mat6,一隻襪子
+隻,jeg3,蜜蜂,mat6 fonk1,一隻蜜蜂
+隻,jeg3,麋鹿,mey4 lok2,一頭麋鹿，一隻麋鹿
 隻,jeg3,舞,mow5,一支舞
+隻,jeg3,鼯鼠,ng4 seu2,一隻鼯鼠
 隻,jeg3,牙,nga4,一顆牙齒
 隻,jeg3,眼,ngan5,一隻眼睛，一隻眼
 隻,jeg3,鴨,ngab3,一隻鴨子
+隻,jeg3,蟻,ngay5,一隻螞蟻
 隻,jeg3,牛,ngaw4,一頭牛
+隻,jeg3,鵝,ngo2,一隻鵝
 隻,jeg3,牌子,pai4 ji2,一個品牌，一個牌子
+隻,jeg3,豹,pau3,一隻豹
 隻,jeg3,皮鞋,pey4 hai4,一隻皮鞋
+隻,jeg3,蝙蝠,pin1 fok1,一隻蝙蝠
 隻,jeg3,平底鑊,penk4 day2 wog6,一口平底鍋，一隻平底鍋
+隻,jeg3,瓢蟲,piu4 conk4,一隻瓢蟲
+隻,jeg3,螃蟹,pong4 hai5,一隻螃蟹
+隻,jeg3,三角龍,sam1 gog3 lonk4,一隻三角龍
+隻,jeg3,山羊,san1 yeong4,一頭山羊
+隻,jeg3,犀牛,say1 ngaw4,一頭犀牛
 隻,jeg3,手,saw2,一隻手
+隻,jeg3,手襪,saw2 mat2,一隻手套
+隻,jeg3,水母,soy2 mow5,一隻水母
+隻,jeg3,水牛,soy2 ngaw4,一頭水牛
+隻,jeg3,信天翁,sont3 tin1 yonk1,一隻信天翁
+隻,jeg3,馴鹿,sont4 lok2,一頭馴鹿，一隻馴鹿
+隻,jeg3,獅子,si1 ji2,一頭獅子
 隻,jeg3,豉油碟,si6 yaw4 dib2,一個小盤子，一個小碟兒，一個醬油碟子
+隻,jeg3,蟋蟀,sek1 sot1,一隻蟋蟀
+隻,jeg3,蜥蜴,sek1 yek6,一隻蜥蜴
+隻,jeg3,猩猩,senk1 senk1,一隻猩猩
 隻,jeg3,小船,siu2 seun4,一條小船
 隻,jeg3,梳,so1,一把梳子
+隻,jeg3,樹熊,seu6 honk4,無尾熊，考拉熊
+隻,jeg3,樹懶,seu6 lan5,一隻樹懶
+隻,jeg3,雪豹,seud3 pau3,一隻雪豹
+隻,jeg3,鵜鶘,tay4 wu4,一隻鵜鶘
+隻,jeg3,天竺鼠,tin1 jok1 seu2,一隻天竺鼠
+隻,jeg3,天鵝,tin1 ngo4,一隻天鵝
+隻,jeg3,鴕鳥,to4 niu5,一隻鴕鳥
+隻,jeg3,螳螂,tong4 long4,一隻螳螂
+隻,jeg3,塘尾,tong4 mey1,一隻蜻蜓
+隻,jeg3,塘鵝,tong4 ngo4,一隻鵜鶘
+隻,jeg3,土鼠,tow2 seu2,一隻土鼠
 隻,jeg3,兔,tow3,一隻兔子
+隻,jeg3,禿鷹,tok1 yenk1,一隻禿鷹
 隻,jeg3,鍋,wo1,一口鍋
+隻,jeg3,蝸牛,wo1 ngaw4,一隻蝸牛
 隻,jeg3,鑊,wog6,一口鍋，一個鍋，一口鐵鍋，一口炒菜鍋
+隻,jeg3,烏鴉,wu1 nga1,一隻烏鴉
+隻,jeg3,烏蠅,wu1 yenk1,一隻蒼蠅
+隻,jeg3,蝴蝶,wu4 dib2,一隻蝴蝶
+隻,jeg3,狐狸,wu4 ley2,一隻狐狸
 隻,jeg3,碗,wun2,一個碗
+隻,jeg3,浣熊,wun5 honk4,一隻浣熊
+隻,jeg3,疣豬,yaw4 jeu1,一頭疣豬
 隻,jeg3,嘢,ye5,一個傢伙
+隻,jeg3,野豬,ye5 jeu1,一頭野豬
+隻,jeg3,野鹿,ye5 lok2,一頭野鹿，一隻野鹿
+隻,jeg3,夜鶯,ye6 ank1,一隻夜鶯
 隻,jeg3,藥,yeog6,一種藥
 隻,jeg3,羊,yeong4,一頭羊
 隻,jeg3,椅墊,yi2 din3,一個軟墊子，一個坐墊
 隻,jeg3,耳仔,yi5 jay2,一隻耳朵
+隻,jeg3,翼手龍,yek6 saw2 lonk4,一隻翼手龍
+隻,jeg3,鼴鼠,yin2 seu2,一隻鼴鼠
+隻,jeg3,燕,yin3,一隻燕子
+隻,jeg3,鸚鵡,yenk1 mow5,一隻鸚鵡
 隻,jeg3,褥仔,yok6 jay2,一個軟墊子，一個坐墊
 樽,jont1,拔蘭地,bat6 lan1 dey2,一瓶白蘭地
 樽,jont1,橙汁,cang2 jap1,一瓶柳橙汁，一瓶橘子汁
@@ -764,6 +909,7 @@
 座,jo6,大堂,dai6 tong4,一座大堂
 座,jo6,燈塔,dank1 tab3,一座燈塔
 座,jo6,雕像,diu1 jeong6,一座雕像
+座,jo6,島嶼,dow2 joy6,一座島嶼
 座,jo6,佛寺,fat1 ji6,一座佛寺
 座,jo6,火山,fo2 san1,一座火山
 座,jo6,教堂,gau3 tong4,一座教堂
@@ -775,6 +921,7 @@
 座,jo6,古城,gu2 senk4,一座古城
 座,jo6,公寓,gonk1 yeu6,一棟公寓，一套公寓，一幢公寓
 座,jo6,公園,gonk1 yeun2,一座公園
+座,jo6,海島,hoi2 dow2,一座海島
 座,jo6,寺,ji6,一座寺
 座,jo6,鐘樓,jonk1 law4,一座鐘樓
 座,jo6,住宅,jeu6 jag6,一所住宅，一座住宅
@@ -969,6 +1116,7 @@ pack,peg1,藥水膠布,yeog6 soy2 gau1 bow3,一包藥水膠布
 條,tiu4,白瓜,bag6 gua1,一條菜瓜，一條越瓜
 條,tiu4,白蘿蔔,bag6 lo4 bag6,一條白蘿蔔
 條,tiu4,白頭髮,bag6 taw4 fad3,一根白頭髮
+條,tiu4,變色龍,bin3 sek1 lonk4,一條變色龍
 條,tiu4,半截裙,bun3 jid6 kuant4,一條裙子
 條,tiu4,餐巾,can1 gant1,一條餐巾
 條,tiu4,赤𩶘,ceg3 lab6,一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
@@ -982,20 +1130,24 @@ pack,peg1,藥水膠布,yeog6 soy2 gau1 bow3,一包藥水膠布
 條,tiu4,曹白,cow4 bag6,一條鰳魚，一條鱠魚，一條快魚
 條,tiu4,蔥,conk1,一根蔥，一棵蔥
 條,tiu4,村,ceun1,一條村，一個村莊
+條,tiu4,大白鯊,dai6 bag6 sa1,一條大白鯊
 條,tiu4,大髀,dai6 bey2,一條大腿
 條,tiu4,大地魚,dai6 dey6 yeu2,一條比目魚
 條,tiu4,單車鏈,dan1 ce1 lin6,一根鏈條，一條滾子鏈
 條,tiu4,底褲,day2 fu3,一條內褲
 條,tiu4,底裙,day2 kuant4,一條襯裙
+條,tiu4,毒蛇,dok6 se4,一條毒蛇
 條,tiu4,短裙,deun2 kuant4,一條裙子
 條,tiu4,化骨龍,fa3 guat1 lonk4,一個小孩子，一個淘氣的孩子
 條,tiu4,廢柴,fay3 cai4,一個廢物，一個沒用的人
 條,tiu4,褲,fu3,一條褲子
+條,tiu4,褲帶,fu3 dai2,一條褲帶
 條,tiu4,嘉𩶘,ga1 lab6,一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
 條,tiu4,街,gai1,一條街
 條,tiu4,格仔裙,gag3 jay2 kuant4,一條花格裙子
 條,tiu4,膠喉,gau1 haw4,一根膠管
 條,tiu4,雞泡魚,gay1 pow5 yeu4,一條河豚
+條,tiu4,金魚,gamp1 yeu2,一條金魚
 條,tiu4,枸杞,gaw2 gey2,一條枸杞
 條,tiu4,頸,geng2,一條脖子
 條,tiu4,頸巾,geng2 gant1,一條圍巾
@@ -1003,6 +1155,7 @@ pack,peg1,藥水膠布,yeog6 soy2 gau1 bow3,一包藥水膠布
 條,tiu4,棍,guant3,一根棍子，一條棍子
 條,tiu4,痕,hant2,一道印
 條,tiu4,氣,hey3,一肚子氣
+條,tiu4,響尾蛇,heong2 mey5 se4,一條響尾蛇
 條,tiu4,河,ho4,一條河
 條,tiu4,巷仔,hong6 jay2,一條小巷
 條,tiu4,紅衫,honk4 sam1,一條金線魚
@@ -1013,11 +1166,13 @@ pack,peg1,藥水膠布,yeog6 soy2 gau1 bow3,一包藥水膠布
 條,tiu4,左口魚,jo2 haw2 yeu2,一條比目魚
 條,tiu4,竹,jok1,一根竹竿，一根竹子
 條,tiu4,茄子,ke2 ji2,一條茄子
+條,tiu4,鯨魚,kenk1 yeu2,一條鯨魚
 條,tiu4,橋,kiu2,一個點子
 條,tiu4,曲線,kok1 sin3,一條曲線
 條,tiu4,裙,kuant4,一條裙子，一條洋裙
 條,tiu4,裙帶,kuant4 dai3,一條裙帶
 條,tiu4,罅,la3,一道縫，一條縫
+條,tiu4,藍鯨,lam4 kenk1,一條藍鯨
 條,tiu4,爛數,lan6 sow3,一筆爛帳
 條,tiu4,𩶘魚,lab6 yeu2,一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
 條,tiu4,褸裙,law1 kuant2,一條大衣式連衣裙
@@ -1030,16 +1185,24 @@ pack,peg1,藥水膠布,yeog6 soy2 gau1 bow3,一包藥水膠布
 條,tiu4,問題,mant6 tay4,一個問題
 條,tiu4,尾,mey5,一條尾巴
 條,tiu4,命,meng6,一條命
+條,tiu4,蟒蛇,mong5 se4,一條蟒蛇
 條,tiu4,毛,mow4,一根毛
+條,tiu4,毛毛蟲,mow4 mow4 conk4,一條毛毛蟲
 條,tiu4,木,mok6,一根木料
+條,tiu4,蝻蛇,nam4 se4,一條蟒蛇
 條,tiu4,女,noy2,一個女子，一個女朋友
+條,tiu4,眼鏡蛇,ngan5 geng2 se4,一條眼鏡蛇
 條,tiu4,矮瓜,ngay2 gua1,一條茄子，一個茄子
+條,tiu4,鱷魚,ngog6 yeu4,一條鱷魚
+條,tiu4,皮帶,pey4 dai2,一條皮帶
 條,tiu4,骿骨,peng1 guat1,一條肋骨
 條,tiu4,沙甸魚,sa1 din1 yeu2,一條沙丁魚
 條,tiu4,沙𩶘,sa1 lab6,一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
+條,tiu4,鯊魚,sa1 yeu2,一條鯊魚
 條,tiu4,衫裙,sam1 kuant4,一條連衣裙
 條,tiu4,西洋菜,say1 yeong4 coi3,一條豆瓣葉，一條水田芥，一條水甕菜
 條,tiu4,生命,sank1 meng6,一條生命
+條,tiu4,蛇,se4,一條蛇
 條,tiu4,水草,soy2 cow2,一根水草
 條,tiu4,水喉,soy2 haw4,一條水管
 條,tiu4,屍,si1,一具死屍，一具屍體
