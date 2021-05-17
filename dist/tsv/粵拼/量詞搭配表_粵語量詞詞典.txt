@@ -4,6 +4,7 @@
 把	baa2	尺	cek3	一條尺子，一把尺子
 把	baa2	鎚	ceoi4	一柄錘子，一柄鐵錘，一把錘子，一把鐵錘
 把	baa2	鎚仔	ceoi4	一柄錘子，一柄鐵錘，一把錘子，一把鐵錘
+把	baa2	秤	cing3	一桿秤，一桿磅秤
 把	baa2	菜	coi3	一捆兒菜
 把	baa2	菜刀	coi3 dou1	一把菜刀
 把	baa2	草	cou2	一捆兒草
@@ -52,7 +53,7 @@
 班	baan1	同事	tung4 si6	一群同事
 班	baan1	烏合之眾	wu1 hap6 zi1 zung3	一群烏合之眾
 班	baan1	人	jan4	一群人，一伙人
-班	baan1	友仔	jau2 zai2	一群小子，一幫小子
+班	baan1	友仔	jau2 zai2	一群小子，一幫小子，一幫傢伙
 包	baau1	茶葉	caa4 jip6	一包茶葉
 包	baau1	煙仔	jin1 zai2	一盒香煙，一包香煙
 筆	bat1	事	si6	一碼事
@@ -113,14 +114,14 @@
 揪	cau1	提子	tai4 zi2	一嘟嚕葡萄，一串葡萄
 場	coeng4	病	beng6	一場病
 場	coeng4	過雲雨	gwo3 wan4 jyu5	一場陣雨
-齣	ceot1	大戲	daai6 hei3	一部粤劇
+齣	ceot1	大戲	daai6 hei3	一部粵劇
 齣	ceot1	電影	din6 jing2	一場電影
 齣	ceot1	喜劇	hei2 kek6	一部喜劇
 齣	ceot1	戲	hei3	一齣戲
 齣	ceot1	戲	hei3	一齣戲，一場戲，一部戲，一部電影
 齣	ceot1	片	pin2	一部影片
 齣	ceot1	滑稽戲	waat6 kai1 hei3	一齣滑稽戲，一場滑稽戲，一部滑稽戲
-齣	ceot1	粤劇	jyut6 kek6	一部粤劇
+齣	ceot1	粵劇	jyut6 kek6	一部粵劇
 匙羹	ci4 gang1	糖	tong4	一勺糖
 秤	cing3	鎖匙	so2 si4	一嘟嚕鑰匙
 埕	cing4	醋	cou3	一瓶醋，一罈子醋
@@ -299,6 +300,7 @@
 篤	duk1	尿	niu6	一泡尿
 篤	duk1	屎	si2	一泡屎
 篤	duk1	痰	taam4	一口痰
+棟	dung3	公寓	gung1 jyu6	一幢公寓，一套公寓，一棟公寓
 戙	dung6	磚	zyun1	一摞磚頭
 戙	dung6	瓦	ngaa5	一摞瓦
 戙	dung6	牌	paai4	一摞麻將牌
@@ -348,13 +350,13 @@
 番	faan1	龍爭虎鬥	lung4 zang1 fu2 dau3	一番龍爭虎鬥
 番	faan1	努力	nou5 lik6	一番努力
 番	faan1	惡鬥	ok3 dau3	一番惡鬥
-番	faan1	心機	sam1 gei1	一番心血
+番	faan1	心機	sam1 gei1	一番心機
 番	faan1	心血	sam1 hyut3	一番心血
 番	faan1	心意	sam1 ji3	一番心意
-番	faan1	唇舌	seon4 sit3	一番唇舌
+番	faan1	脣舌	seon4 sit3	一番脣舌
 番	faan1	事業	si6 jip6	一番事業
 番	faan1	成就	sing4 zau6	一番成就
-番	faan1	說話	syut3 waa6	一番話
+番	faan1	說話	syut3 waa6	一番說話
 番	faan1	友情	jau5 cing4	一番友情
 份	fan6	保險	bou2 him2	一份保險
 份	fan6	報告	bou3 gou3	一份報告
@@ -411,14 +413,25 @@
 架	gaa3	拖拉機	to1 laai1 gei1	一輛拖拉機
 間	gaan1	別墅	bit6 seoi5	一幢別墅，一座別墅，一棟別墅
 間	gaan1	博物館	bok3 mat6 gun2	一個博物館，一座博物館，一所博物館
+間	gaan1	寢室	cam2 sat1	一間寢室
 間	gaan1	出入口公司	ceot1 jap6 hau2 gung1 si1	一家進出口公司
+間	gaan1	廁所	ci3 so2	一個廁所，一間廁所
 間	gaan1	廠	cong2	一個工廠，一家工廠
+間	gaan1	沖涼房	cung1 loeng4 fong2	洗澡間，洗澡房，浴室
+間	gaan1	廚房	cyu4 fong2	一間廚房
 間	gaan1	大學	daai6 hok6	一所大學
+間	gaan1	化妝室	faa3 zong1 sat1	一間化妝室
 間	gaan1	發電廠	faat3 din6 cong2	一家發電廠
 間	gaan1	分店	fan1 dim3	一家分店
+間	gaan1	佛寺	fat6 zi2	一座佛寺
+間	gaan1	課室	fo3 sat1	一間教室
 間	gaan1	房	fong2	一個房間，一個屋子
+間	gaan1	教室	gaau3 sat1	一間教室
+間	gaan1	盥洗室	gun3 sai2 sat1	一間盥洗室
 間	gaan1	工廠	gung1 cong2	一家工廠，一個工廠
 間	gaan1	公司	gung1 si1	一家公司
+間	gaan1	公寓	gung1 jyu6	一幢公寓，一套公寓，一棟公寓
+間	gaan1	客房	haak3 fong2	一間客房
 間	gaan1	黑店	hak1 dim3	一家黑店
 間	gaan1	學校	hok6 haau6	一個學校，一所學校
 間	gaan1	酒巴	zau2 baa1	一家酒巴
@@ -429,17 +442,21 @@
 間	gaan1	旅行社	leoi5 hang4 se5	一家旅行社
 間	gaan1	茅廁	maau4 ci3	一個茅廁
 間	gaan1	廟	miu2	一座廟，一個廟，一個寺廟，一座廟宇
+間	gaan1	舞廳	mou5 teng1	一間舞廳
 間	gaan1	銀行	ngan4 hong4	一家銀行
 間	gaan1	屋	nguk1	一所房子，一棟房子，一個房子
 間	gaan1	屋仔	nguk1 zai2	一座小屋，一座茅屋，一座茅舍，一幢茅舍
 間	gaan1	農舍	nung4 se3	一家農舍，一座農舍
 間	gaan1	舖	pou2	一家商店，一家店舖
 間	gaan1	舖頭	pou3 tau2	一家商店，一家舖子
+間	gaan1	修道院	sau1 dou6 jyun2	一家修道院，一座修道院
+間	gaan1	睡房	seoi6 fong2	一間臥室
 間	gaan1	商場	soeng1 coeng4	一家商場
 間	gaan1	商店	soeng1 dim3	一家商店
 間	gaan1	食肆	sik6 si3	一家餐廳，一家飯館，一家餐館，一家菜館
 間	gaan1	小學	siu2 hok6	一所小學
 間	gaan1	醫院	ji1 jyun2	一家醫院
+間	gaan1	浴室	juk6 sat1	一間浴室
 嚿	gau6	冰	bing1	一塊冰
 嚿	gau6	豆腐	dau6 fu6	一塊豆腐
 嚿	gau6	電芯	din6 sam1	一節電池
@@ -477,7 +494,7 @@
 件	gin6	棉衲	min4 naap6	一件棉襖
 件	gin6	毛巾褸	mou4 gan1 lau1	一件毛長外衣
 件	gin6	外套	ngoi6 tou3	一件外套
-件	gin6	内衣	noi6 ji1	一件内衣
+件	gin6	內衣	noi6 ji1	一件內衣
 件	gin6	皮褸	pei4 lau1	一件皮夾克
 件	gin6	衫	saam1	一件衣服
 件	gin6	西餅	sai1 beng2	一塊西點
@@ -490,6 +507,7 @@
 件	gin6	雨褸	jyu5 lau1	一件雨衣
 件	gin6	絨褸	jung2 lau1	一件呢大衣，一件料子大衣
 個	go3	白瓜	baak6 gwaa1	一條菜瓜，一條越瓜
+個	go3	班房	baan1 fong2	一間教室
 個	go3	崩	bang1	一個子兒，一分錢
 個	go3	比喻	bei2 jyu6	一個比喻
 個	go3	錶	biu1	一塊錶，一個錶
@@ -499,8 +517,13 @@
 個	go3	茶葉蛋	caa4 jip6 daan2	一個茶葉蛋
 個	go3	青瓜	ceng1 gwaa1	一條黃瓜，一個黃瓜
 個	go3	鎚	ceoi2	一把鎚子
+個	go3	窗	coeng1	一扇窗戶
+個	go3	窗口	coeng1 hau2	一扇窗戶
+個	go3	窗門	coeng1 mun2	一扇窗戶
+個	go3	窗戶	coeng1 wu6	一扇窗戶
 個	go3	匙羹	ci4 gang1	一把勺子，一把湯匙，一個勺子
 個	go3	傳説	cyun4 syut3	一個傳説
+個	go3	大廳	daai6 teng1	一個大廳
 個	go3	島嶼	dou2 zeoi6	一個島嶼
 個	go3	冬瓜	dung1 gwaa1	一個冬瓜
 個	go3	蕃茄	faan1 ke2	一個蕃茄
@@ -512,6 +535,7 @@
 個	go3	鏡	geng3	一面鏡子
 個	go3	缸	gong1	一口缸
 個	go3	古仔	gu2 zai2	一篇故事，一個故事，一則故事
+個	go3	客廳	haak3 teng1	一個客廳
 個	go3	口	hau2	一張嘴
 個	go3	海島	hoi2 dou2	一個海島
 個	go3	砧板	zam1 baan2	一個砧板
@@ -524,6 +548,7 @@
 個	go3	茄子	ke2 zi2	一個茄子
 個	go3	槓	lung5	一隻箱子
 個	go3	麻包袋	maa4 baau1 doi6	一條麻袋，一個麻袋
+個	go3	馬桶	maa5 tung2	一個馬桶
 個	go3	米缸	mai5 gong1	一個米缸
 個	go3	無花果	mou4 faa1 gwo2	一個無花果
 個	go3	南瓜	naam4 gwaa1	一個南瓜
@@ -531,10 +556,13 @@
 個	go3	眼鏡	ngaan5 geng3	一副眼鏡
 個	go3	矮瓜	ngai2 gwaa1	一條茄子，一個茄子
 個	go3	沙葛	saa1 got3	一個豆薯，一個涼薯，一個葛薯
+個	go3	衫架	saam1 gaa2	一個衣架
 個	go3	生菜	saang1 coi3	一個萵苣
 個	go3	筲箕	saau1 gei1	一個篩子
+個	go3	洗手間	sai2 sau2 gaan1	一個洗手間
 個	go3	世界	sai3 gaai3	一個世界
 個	go3	世紀	sai3 gei2	一個世紀
+個	go3	心	sam1	心，某人的心
 個	go3	手錶	sau2 biu1	一塊手錶
 個	go3	水煲	seoi2 bou1	一個水壺，一個水鍋，一個燒水壺
 個	go3	水缸	seoi2 gong1	一口水缸
@@ -546,9 +574,11 @@
 個	go3	薯仔	syu4 zai2	一個馬鈴薯，一個土豆
 個	go3	蒜頭	syun3 tau4	一頭大蒜，一頭蒜
 個	go3	湯碗	tong1 wun2	一個湯碗
+個	go3	衛生間	wai6 sang1 gaan1	一個衛生間
 個	go3	芋頭	wu6 tau2	一個芋頭
 個	go3	碗	wun2	一個碗
 個	go3	椰菜	je4 coi3	一個包菜，一個洋白菜，一個捲心菜，一個圓白菜，一個高麗菜
+個	go3	嘢	je5	一個傢伙
 個	go3	洋蔥	joeng4 cung1	一個洋蔥
 罐	gun3	啤酒	be1 zau2	一罐啤酒
 罐	gun3	可樂​	ho2 lok6	一罐可樂​
@@ -601,6 +631,7 @@
 隻	zek3	臭鼬	cau3 jau6	一隻臭鼬
 隻	zek3	青蛙	ceng1 waa1	一隻青蛙
 隻	zek3	窗	coeng1	一扇窗戶
+隻	zek3	窗戶	coeng1 wu6	一扇窗戶
 隻	zek3	唱碟	coeng3 dip2	一張唱片
 隻	zek3	唱片	coeng3 pin2	一張唱片
 隻	zek3	長頸鹿	coeng4 geng2 luk2	一頭長頸鹿，一隻長頸鹿
@@ -802,7 +833,7 @@
 張	zoeng1	火車飛	fo2 ce1 fei1	一張火車票
 張	zoeng1	蓆	zek6	一領蓆
 張	zoeng1	紙	zi2	一張紙
-張	zoeng1	毡	zin1	一條毯子
+張	zoeng1	氈	zin1	一條毯子
 張	zoeng1	證書	zing3 syu1	一張證書
 張	zoeng1	咭	kaat1	一張卡片
 張	zoeng1	𢃇	lei5	一張船帆
@@ -850,6 +881,7 @@
 支	zi1	拐杖	gwaai2 zoeng2	一副拐杖
 支	zi1	棍	gwan3	一根棍子
 支	zi1	國旗	gwok3 kei4	一面國旗
+支	zi1	光管	gwong1 gun2	一根日光燈，一盞日光燈，一根熒光燈
 支	zi1	廣告	gwong2 gou3	一則廣告
 支	zi1	汽水	hei3 seoi2	一瓶汽水
 支	zi1	香檳	hoeng1 ban1	一瓶香檳
@@ -878,6 +910,7 @@
 支	zi1	玫瑰	mui4 gwai3	一朵玫瑰，一枝玫瑰
 支	zi1	五星旗	ng5 sing1 kei4	一面五星旗
 支	zi1	牙刷	ngaa4 caat3	一根牙刷
+支	zi1	牙籤	ngaa4 cim1	一根牙籤
 支	zi1	牙膏	ngaa4 gou1	一筒牙膏
 支	zi1	銀針	ngan4 zam1	一根銀針，一枚銀針
 支	zi1	扳手	paan1 sau2	一把扳手
@@ -887,7 +920,7 @@
 支	zi1	水	seoi2	一瓶水
 支	zi1	鮮奶	sin1 naai5	一瓶鮮奶
 支	zi1	雪茄	syut3 gaa1	一根雪茄
-支	zi1	探熱針	taam3 jit6 zam1	一根體溫計，一根體溫表，一根溫度計，一支體溫計，一支體溫表，一支溫度計
+支	zi1	探熱針	taam3 jit6 zam1	一根體溫計，一根體溫表，一根溫度計，一枝體溫計，一支體溫表，一枝溫度計
 支	zi1	鐵枝	tit3 zi1	一根鐵條
 支	zi1	威士忌	wai1 si6 gei2	一瓶威士忌
 支	zi1	鑊鏟	wok6 caan2	一把鍋鏟
@@ -896,7 +929,8 @@
 支	zi1	藥膏	joek6 gou1	一管藥膏
 支	zi1	洋槍	joeng4 coeng1	一柄洋槍
 支	zi1	煙	jin1	一根煙
-支	zi1	鉛筆	jyun4 bat1	一支鉛筆
+支	zi1	鉛筆	jyun4 bat1	一枝鉛筆
+支	zi1	原子筆	jyun4 zi2 bat1	一枝圓珠筆，一枝原子筆
 枝	zi1	花	faa1	一枝花
 座	zo6	冰山	bing1 saan1	一座冰山
 座	zo6	別墅	bit6 seoi6	一棟別墅，一座別墅，一幢別墅
@@ -919,6 +953,7 @@
 座	zo6	古鐘樓	gu2 zung1 lau4	一座古鐘樓
 座	zo6	古城	gu2 sing4	一座古城
 座	zo6	公寓	gung1 jyu6	一棟公寓，一套公寓，一幢公寓
+座	zo6	公寓	gung1 jyu6	一幢公寓，一套公寓，一棟公寓
 座	zo6	公園	gung1 jyun2	一座公園
 座	zo6	海島	hoi2 dou2	一座海島
 座	zo6	寺	zi6	一座寺
@@ -974,6 +1009,7 @@
 粒	lap1	芥菜	gaai3 coi3	一顆芥菜
 粒	lap1	恆星	hang4 sing1	一顆恆星
 粒	lap1	行星	hang4 sing1	一顆行星
+粒	lap1	合桃	hap6 tou4	一顆胡桃，一顆核桃，一個胡桃，一個核桃
 粒	lap1	核彈	hat6 daan6	一顆核彈
 粒	lap1	氫彈	hing1 daan6	一顆氫彈
 粒	lap1	紅飯	hung4 faan6	一顆紅飯
@@ -987,7 +1023,7 @@
 粒	lap1	蘑菇	mo4 gu1	一朵蘑菇
 粒	lap1	菩提子	pou4 tai4 zi2	一顆葡萄
 粒	lap1	沙	saa1	一粒沙子
-粒	lap1	衫鈕	saam1 nau2	一顆鈕扣，一顆扣子，一顆衣扣
+粒	lap1	衫鈕	saam1 nau2	一顆鈕釦，一個釦子，一顆衣釦
 粒	lap1	彗星	seoi6 sing1	一顆彗星
 粒	lap1	骰仔	sik1 zai2	一把色子，一顆色子，一粒色子，一把骰子，一顆骰子，一粒骰子
 粒	lap1	星章	sing1 zoeng1	一顆星章
@@ -996,14 +1032,13 @@
 粒	lap1	衞星	wai6 sing1	一顆衞星
 輪	leon4	咀	zeoi2	一張嘴
 捻	lim1	紙	zi2	一令紙
-碌	luk1	竹	zuk1	一根粗竹竿
-碌	luk1	手臂	sau2 bei3	一條胳膊，一隻胳膊，一條手臂，一隻手臂
 轆	luk1	杉	caam3	一根杉木，一段杉木
 轆	luk1	柱	cyu5	一根柱子
 轆	luk1	香蕉	hoeng1 ziu1	一根香蕉
 轆	luk1	蔗	ze3	一截甘蔗，一段甘蔗，一根甘蔗
-轆	luk1	竹	zuk1	一段竹子
+轆	luk1	竹	zuk1	一段竹子，一根粗竹竿
 轆	luk1	木	muk6	一根木頭
+轆	luk1	手臂	sau2 bei3	一條胳膊，一隻胳膊，一條手臂，一隻手臂
 籠	lung4	燒賣​	siu1 maai2	一籠子燒賣，一籠子燒麥
 槓	lung5	嘢	je5	一套鬼計
 孖	maa1	番梘	faan1 gaan2	一條肥皂
@@ -1024,7 +1059,7 @@
 味	mei2	嘢	je5	一種事，一種事情
 味	mei2	藥	joek6	一種中藥
 味	mei2	藥材	joek6 coi4	一種中醫藥材
-味	mei2	粤菜	jyut6 coi3	一道粤菜
+味	mei2	粵菜	jyut6 coi3	一道粵菜
 面	min6	鏡	geng3	一面鏡子
 枚	mui4	金牌	gam1 paai4	一塊金牌，一面金牌，一枚金牌
 枚	mui4	炸彈	zaa3 daan2	一顆炸彈，一枚炸彈
@@ -1033,7 +1068,7 @@
 粒	nap1	珍珠	zan1 zyu1	一顆珍珠，一粒珍珠
 粒	nap1	子彈	zi2 daan2	一顆子彈
 粒	nap1	鐘	zung1	一個小時
-粒	nap1	紐	nau2	一顆紐扣
+粒	nap1	鈕	nau2	一顆鈕釦，一個釦子
 粒	nap1	聲	seng1	一聲
 粒	nap1	水晶	seoi2 zing1	一顆水晶
 粒	nap1	星	sing1	一顆星
@@ -1111,13 +1146,16 @@ pack	pek1	藥水膠布	joek6 seoi2 gaau1 bou3	一包藥水膠布
 頭	tau4	家	gaa1	一家，一個家庭，整個家庭的各種事務
 停	ting2	車	ce1	一款車
 停	ting2	人	jan4	一種人，一路人
+條	tiu4	暗溝	am3 kau1	一條暗溝
 條	tiu4	百褶裙	baak3 zip3 kwan4	一條百褶裙
 條	tiu4	白瓜	baak6 gwaa1	一條菜瓜，一條越瓜
 條	tiu4	白蘿蔔	baak6 lo4 baak6	一條白蘿蔔
 條	tiu4	白頭髮	baak6 tau4 faat3	一根白頭髮
 條	tiu4	變色龍	bin3 sik1 lung4	一條變色龍
+條	tiu4	煲𧘹	bou1 taai1	一條領結
 條	tiu4	半截裙	bun3 zit6 kwan4	一條裙子
 條	tiu4	餐巾	caan1 gan1	一條餐巾
+條	tiu4	車呔	ce1 taai1	一個輪胎，一個車胎
 條	tiu4	赤𩶘	cek3 laap6	一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
 條	tiu4	青瓜	ceng1 gwaa1	一條黃瓜，一個黃瓜
 條	tiu4	青蘿蔔	ceng1 lo4 baak6	一條青蘿蔔
@@ -1152,10 +1190,13 @@ pack	pek1	藥水膠布	joek6 seoi2 gaau1 bou3	一包藥水膠布
 條	tiu4	頸巾	geng2 gan1	一條圍巾
 條	tiu4	頸鏈	geng2 lin2	一條項鏈
 條	tiu4	棍	gwan3	一根棍子，一條棍子
+條	tiu4	下水道	haa6 seoi2 dou6	一條下水道
+條	tiu4	坑渠	haang1 keoi4	一條下水道，一條溝渠
 條	tiu4	痕	han2	一道印
 條	tiu4	氣	hei3	一肚子氣
 條	tiu4	響尾蛇	hoeng2 mei5 se4	一條響尾蛇
 條	tiu4	河	ho4	一條河
+條	tiu4	河流	ho4 lau4	一條河流
 條	tiu4	巷仔	hong6 zai2	一條小巷
 條	tiu4	紅衫	hung4 saam1	一條金線魚
 條	tiu4	紅衫魚	hung4 saam1 jyu2	一條金線魚
@@ -1164,7 +1205,9 @@ pack	pek1	藥水膠布	joek6 seoi2 gaau1 bou3	一包藥水膠布
 條	tiu4	節瓜	zit3 gwaa1	一條毛瓜，一個毛瓜
 條	tiu4	左口魚	zo2 hau2 jyu2	一條比目魚
 條	tiu4	竹	zuk1	一根竹竿，一根竹子
+條	tiu4	溝渠	kau1 keoi4	一條溝渠
 條	tiu4	茄子	ke2 zi2	一條茄子
+條	tiu4	渠道	keoi4 dou6	一條渠道
 條	tiu4	鯨魚	king1 jyu2	一條鯨魚
 條	tiu4	橋	kiu2	一個點子
 條	tiu4	曲線	kuk1 sin3	一條曲線
@@ -1176,6 +1219,7 @@ pack	pek1	藥水膠布	joek6 seoi2 gaau1 bou3	一包藥水膠布
 條	tiu4	𩶘魚	laap6 jyu2	一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
 條	tiu4	褸裙	lau1 kwan2	一條大衣式連衣裙
 條	tiu4	脷	lei6	一條舌頭
+條	tiu4	領𧘹	leng5 taai1	一條領帶
 條	tiu4	蓮藕	lin4 ngau5	一條蓮藕
 條	tiu4	蘿蔔	lo4 baak6	一條蘿蔔
 條	tiu4	龍	lung4	一條龍
@@ -1184,15 +1228,18 @@ pack	pek1	藥水膠布	joek6 seoi2 gaau1 bou3	一包藥水膠布
 條	tiu4	問題	man6 tai4	一個問題
 條	tiu4	尾	mei5	一條尾巴
 條	tiu4	命	meng6	一條命
+條	tiu4	明渠	ming4 keoi4	一條明渠
 條	tiu4	蟒蛇	mong5 se4	一條蟒蛇
 條	tiu4	毛	mou4	一根毛
 條	tiu4	毛毛蟲	mou4 mou4 cung4	一條毛毛蟲
 條	tiu4	木	muk6	一根木料
 條	tiu4	蝻蛇	naam4 se4	一條蟒蛇
 條	tiu4	女	neoi2	一個女子，一個女朋友
+條	tiu4	牙線	ngaa4 sin3	一條牙線
 條	tiu4	眼鏡蛇	ngaan5 geng2 se4	一條眼鏡蛇
 條	tiu4	矮瓜	ngai2 gwaa1	一條茄子，一個茄子
 條	tiu4	鱷魚	ngok6 jyu4	一條鱷魚
+條	tiu4	排水渠	paai4 seoi2 keoi4	一條排水渠
 條	tiu4	皮帶	pei4 daai2	一條皮帶
 條	tiu4	骿骨	peng1 gwat1	一條肋骨
 條	tiu4	沙甸魚	saa1 din1 jyu2	一條沙丁魚
@@ -1204,8 +1251,10 @@ pack	pek1	藥水膠布	joek6 seoi2 gaau1 bou3	一包藥水膠布
 條	tiu4	蛇	se4	一條蛇
 條	tiu4	水草	seoi2 cou2	一根水草
 條	tiu4	水喉	seoi2 hau4	一條水管
+條	tiu4	水渠	seoi2 keoi4	一條水渠
 條	tiu4	屍	si1	一具死屍，一具屍體
 條	tiu4	絲瓜	si1 gwaa1	一條絲瓜
+條	tiu4	士啤呔	si6 be1 taai1	一個後備車輪，一個後備輪胎，一個備用車輪，一個備用輪胎
 條	tiu4	線	sin3	一條線
 條	tiu4	繩	sing2	一根繩子
 條	tiu4	勝瓜	sing3 gwaa1	一條絲瓜，一個絲瓜
@@ -1215,6 +1264,7 @@ pack	pek1	藥水膠布	joek6 seoi2 gaau1 bou3	一包藥水膠布
 條	tiu4	船	syun4	一條船，一艘船
 條	tiu4	雪條	syut3 tiu2	一根冰棍兒
 條	tiu4	呔	taai1	一個輪胎，一個車胎
+條	tiu4	𧘹	taai1	一條領帶
 條	tiu4	𧘹	taai1	一條領帶
 條	tiu4	鰨沙	taat3 saa1	一條比目魚
 條	tiu4	鰨沙魚	taat3 saa1 jyu2	一條比目魚
@@ -1226,11 +1276,16 @@ pack	pek1	藥水膠布	joek6 seoi2 gaau1 bou3	一包藥水膠布
 條	tiu4	塘蝨魚	tong4 sat1 jyu2	一條鯰魚
 條	tiu4	通菜	tung1 coi3	一條空心菜
 條	tiu4	圍裙	wai4 kwan4	一條圍裙
+條	tiu4	運河	wan6 ho4	一條運河
 條	tiu4	黃芽白	wong4 ngaa4 baak6	一棵大白菜
+條	tiu4	污水渠	wu1 seoi2 keoi4	一條下水道，一條地下渠，一條污水下水道
+條	tiu4	護城河	wu6 sing4 ho4	一條護城河
+條	tiu4	陰溝	jam1 kau1	一條陰溝
 條	tiu4	人命	jan4 meng6	一條人命
 條	tiu4	手骨	jat1 tiu4 sau2 gwat1	一條胳膊，一隻胳膊
 條	tiu4	友	jau2	一個傢伙，一個小子
-條	tiu4	友仔	jau2 zai2	一個小子
+條	tiu4	友仔	jau2 zai2	一個傢伙，一個小子
+條	tiu4	陽溝	joeng4 kau1	一條陽溝
 條	tiu4	羽毛	jyu5 mou5	一根羽毛，一片羽毛
 堂	tong4	鼻涕	bei6 tai3	一行鼻涕
 堂	tong4	窗簾	coeng1 lim2	一塊窗簾
@@ -1251,6 +1306,8 @@ pack	pek1	藥水膠布	joek6 seoi2 gaau1 bou3	一包藥水膠布
 筒	tung4	菲林	fei1 lam2	一個膠卷
 筒	tung4	藥丸	joek6 jyun2	一管藥丸
 脫	tyut3	衫	saam1	一套衣服，一身衣服
+脫	tyut3	西裝	sai1 zong1	一套西裝
+脫	tyut3	人	jan4	一批人，一撥兒人，一代人，一輩人
 圍	wai4	酒	zau2	一桌酒席
 圍	wai4	和頭酒	wo4 tau4 zau2	一桌謝罪酒
 回	wui4	事	si6	一回事
@@ -1261,3 +1318,4 @@ pack	pek1	藥水膠布	joek6 seoi2 gaau1 bou3	一包藥水膠布
 碗	wun2	麵	min6	一碗麵
 碗	wun2	湯	tong1	一碗湯
 碗	wun2	楊枝甘露​	joeng4 zi1 gam1 lou6	一碗楊枝甘露​
+樣	joeng6	嘢	je5	一個東西，一種東西，一件事兒，一樣東西
