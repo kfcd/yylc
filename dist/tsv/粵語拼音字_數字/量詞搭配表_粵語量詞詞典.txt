@@ -1208,13 +1208,13 @@ pack	peg1	藥水膠布	yeog6 soy2 gau1 bow3	一包藥水膠布
 條	tiu4	溝渠	kaw1 koy4	一條溝渠
 條	tiu4	茄子	ke2 ji2	一條茄子
 條	tiu4	渠道	koy4 dow6	一條渠道
-條	tiu4	鯨魚	kenk1 yeu2	一條鯨魚
+條	tiu4	鯨魚	kenk4 yeu2	一條鯨魚
 條	tiu4	橋	kiu2	一個點子
 條	tiu4	曲線	kok1 sin3	一條曲線
 條	tiu4	裙	kuant4	一條裙子，一條洋裙
 條	tiu4	裙帶	kuant4 dai3	一條裙帶
 條	tiu4	罅	la3	一道縫，一條縫
-條	tiu4	藍鯨	lam4 kenk1	一條藍鯨
+條	tiu4	藍鯨	lam4 kenk4	一條藍鯨
 條	tiu4	爛數	lan6 sow3	一筆爛帳
 條	tiu4	𩶘魚	lab6 yeu2	一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
 條	tiu4	褸裙	law1 kuant2	一條大衣式連衣裙
