@@ -15,6 +15,7 @@
 把	ba²	口	hau²	一張嘴
 把	ba²	聲	seng¹	一個聲音
 把	ba²	扇	sin³	一把扇子
+把	ba²	鎖	soh²	一把鎖，一把鎖頭
 把	ba²	掃	so²	一把小笤帚，一把掃帚
 班	baan¹	巴士	ba¹ si²	一班公車
 班	baan¹	車	che¹	一班車
@@ -63,8 +64,10 @@
 煲	bo¹	飯	faan⁶	一鍋飯
 煲	bo¹	湯	tong¹	一鍋湯
 煲	bo¹	糖水	tong⁴ sui²	一鍋甜湯
+部	bo⁶	電話	din⁶ wa²	一部電話
 部	bo⁶	𨋢	lip¹	一台電梯，一部電梯，一座升降機
 部	bo⁶	洗衣機	sai² yi¹ gei¹	一台洗衣機
+部	bo⁶	手提	sau² tai⁴	一個手機，一部手機，一個行動電話
 杯	booi¹	白酒	baak⁶ jau²	一杯白酒
 杯	booi¹	拔蘭地	bat⁶ laan¹ dei²	一杯白蘭地
 杯	booi¹	啤酒	be¹ jau²	一杯啤酒
@@ -155,7 +158,7 @@
 啖	daam⁶	麵包	min⁶ baau¹	一口麵包
 啖	daam⁶	奶	naai⁵	一口奶
 啖	daam⁶	奶茶	naai⁵ cha⁴	一口奶茶
-啖	daam⁶	檸茶	ning⁴ cha⁴	一口檸檬茶
+啖	daam⁶	檸茶	ning² cha⁴	一口檸檬茶
 啖	daam⁶	濃茶	nung⁴ cha⁴	一口濃茶
 啖	daam⁶	三文治	saam¹ man⁴ ji⁶	一口三明治
 啖	daam⁶	新鮮空氣	san¹ sin¹ hung¹ hei³	一口新鮮空氣
@@ -216,9 +219,9 @@
 沓	daap⁶	碗	woon²	一摞碗
 沓	daap⁶	洋樓	yeung⁴ lau²	一座洋房
 笪	daat³	地方	dei⁶ fong¹	一個地方，一塊土地
-笪	daat³	定	deng⁶	一塊地方
-笪	daat³	𤶸	na¹	一塊疤
-笪	daat³	田	tin⁴	一塊地
+笪	daat³	定	deng⁶	一塊地方，一個地方
+笪	daat³	𤶸	na¹	一塊疤，一塊傷疤，一塊瘡疤
+笪	daat³	田	tin⁴	一塊地，一塊田地
 底	dai²	薄罉	bok⁶ chaang¹	一塊糯米粉烙餅
 底	dai²	糕	go¹	一盤糕
 底	dai²	蘿蔔糕	loh⁴ baak⁶ go¹	一整塊蘿蔔糕
@@ -263,6 +266,7 @@
 朵	deuh²	鬱金香	wat¹ gam¹ heung¹	一朵鬱金香
 朵	deuh²	櫻花	ying¹ fa¹	一朵櫻花
 朵	deuh²	月季	yuet⁶ gwai³	一朵月季
+堆	dui¹	垃圾	laap⁶ saap³	一堆垃圾
 對	dui³	波鞋	boh¹ haai⁴	一雙球鞋，一雙運動鞋
 對	dui³	筷子	faai³ ji²	一雙筷子
 對	dui³	腳	geuk³	一雙腳
@@ -288,6 +292,7 @@
 丁	ding¹	友	yau²	一個人，孤孤單單的一個人
 碟	dip²	菜	choi³	一盤菜
 碟	dip²	飯	faan⁶	一盤飯
+袋	doi⁶	垃圾	laap⁶ saap³	一袋垃圾
 度	do⁶	玻璃門	boh¹ lei¹ moon⁴	一扇玻璃門
 度	do⁶	計仔	gai² jai²	一個點子
 度	do⁶	橋	kiu⁴	一座橋
@@ -310,6 +315,7 @@
 段	duen⁶	佳話	gaai¹ wa⁶	一段佳話
 段	duen⁶	感情	gam² ching⁴	一段感情
 段	duen⁶	經歷	ging¹ lik⁶	一段經歷
+段	duen⁶	歌詞	goh¹ chi⁴	一段歌詞
 段	duen⁶	關係	gwaan¹ hai⁶	一段關係
 段	duen⁶	廣告	gwong² go³	一則廣告
 段	duen⁶	距離	kui⁵ lei⁴	一段距離
@@ -466,6 +472,7 @@
 嚿	gau⁶	海綿	hoi² min⁴	一塊海綿
 嚿	gau⁶	磚	juen¹	一塊磚頭
 嚿	gau⁶	磚頭	juen¹ tau⁴	一塊磚頭
+嚿	gau⁶	垃圾	laap⁶ saap³	一塊垃圾
 嚿	gau⁶	木	muk⁶	一塊木頭
 嚿	gau⁶	泥	nai⁴	一塊土，一團泥，一團泥土
 嚿	gau⁶	石	sek⁶	一塊石頭
@@ -477,6 +484,7 @@
 嚿	gau⁶	雲耳	wan⁴ yi⁵	一塊木耳
 嚿	gau⁶	玉	yuk²	一塊玉
 嚿	gau⁶	肉	yuk²	一塊肉
+句	gui³	歌詞	goh¹ chi⁴	一句歌詞
 句	gui³	說話	suet³ wa⁶	一句話
 句	gui³	話	wa²	一句話
 具	gui⁶	屍體	si¹ tai²	一具屍體
@@ -489,6 +497,7 @@
 件	gin⁶	中褸	jung¹ lau¹	一件中大衣
 件	gin⁶	中山裝	jung¹ saan¹ jong¹	一件中山裝
 件	gin⁶	冷衫	laang¹ saam¹	一件毛衣
+件	gin⁶	垃圾	laap⁶ saap³	一件垃圾
 件	gin⁶	褸	lau¹	一件大衣，一件外套，一件夾克
 件	gin⁶	棉褸	min⁴ lau¹	一件棉大衣
 件	gin⁶	棉衲	min⁴ naap⁶	一件棉襖
@@ -524,6 +533,7 @@
 個	goh³	匙羹	chi⁴ gang¹	一把勺子，一把湯匙，一個勺子
 個	goh³	傳説	chuen⁴ suet³	一個傳説
 個	goh³	大廳	daai⁶ teng¹	一個大廳
+個	goh³	電話	din⁶ wa²	一個電話
 個	goh³	島嶼	do² jui⁶	一個島嶼
 個	goh³	冬瓜	dung¹ gwa¹	一個冬瓜
 個	goh³	蕃茄	faan¹ ke²	一個蕃茄
@@ -1136,6 +1146,31 @@ pack	pek¹	藥水膠布	yeuk⁶ sui² gaau¹ bo³	一包藥水膠布
 𢱢	saak³	沙田柚	sa¹ tin⁴ yau²	一塊柚子肉
 𢱢	saak³	西瓜	sai¹ gwa¹	一塊西瓜
 世	sai³	人	yan⁴	一輩子
+首	sau²	情歌	ching⁴ goh¹	一首情歌
+首	sau²	歌	goh¹	一首歌
+首	sau²	歌詞	goh¹ chi⁴	一首歌詞
+首	sau²	歌曲	goh¹ kuk¹	一首歌曲
+首	sau²	歌謠	goh¹ yiu⁴	一首歌謠
+首	sau²	古詩	goo² si¹	一首古詩
+首	sau²	奏鳴曲	jau³ ming⁴ kuk¹	一首奏鳴曲
+首	sau²	即興曲	jik¹ hing³ kuk¹	一首即興曲
+首	sau²	即興詩	jik¹ hing³ si¹	一首即興詩
+首	sau²	主打歌	jue² da² goh¹	一首主打歌
+首	sau²	主題歌	jue² tai⁴ goh¹	一首主題歌
+首	sau²	流行歌	lau⁴ hang⁴ goh¹	一首流行歌
+首	sau²	老歌	lo⁵ goh¹	一首老歌
+首	sau²	民歌	man⁴ goh¹	一首民歌
+首	sau²	民謠	man⁴ yiu⁴	一首民謠
+首	sau²	樂曲	ngok⁶ kuk¹	一首樂曲
+首	sau²	俳句	paai⁴ gui³	一首俳句
+首	sau²	新歌	san¹ goh¹	一首新歌
+首	sau²	新曲	san¹ kuk¹	一首新曲
+首	sau²	詩	si¹	一首詩
+首	sau²	小詩	siu² si¹	一首小詩
+首	sau²	抒情詩	sue¹ ching⁴ si¹	一首抒情詩
+首	sau²	唐詩	tong⁴ si¹	一首唐詩
+首	sau²	兒歌	yi⁴ goh¹	一首兒歌
+首	sau²	現代詩	yin⁶ doi⁶ si¹	一首現代詩
 勺	seuk³	酒	jau²	一提酒
 勺	seuk³	油	yau⁴	一提油
 扇	sin³	窗	cheung¹	一扇窗戶
@@ -1181,8 +1216,10 @@ pack	pek¹	藥水膠布	yeuk⁶ sui² gaau¹ bo³	一包藥水膠布
 條	tiu⁴	褲帶	foo³ daai²	一條褲帶
 條	tiu⁴	嘉𩶘	ga¹ laap⁶	一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
 條	tiu⁴	街	gaai¹	一條街
+條	tiu⁴	街數	gaai¹ so³	一筆債，一筆錢，一筆外債，一筆債務
 條	tiu⁴	格仔裙	gaak³ jai² kwan⁴	一條花格裙子
 條	tiu⁴	膠喉	gaau¹ hau⁴	一根膠管
+條	tiu⁴	雞毛掃	gai¹ mo⁴ so²	一根雞毛撢子，一支雞毛撢子
 條	tiu⁴	雞泡魚	gai¹ po⁵ yue⁴	一條河豚
 條	tiu⁴	金魚	gam¹ yue²	一條金魚
 條	tiu⁴	枸杞	gau² gei²	一條枸杞
@@ -1303,6 +1340,7 @@ pack	pek¹	藥水膠布	yeuk⁶ sui² gaau¹ bo³	一包藥水膠布
 套	to³	劇	kek⁶	一部電視劇
 套	to³	片	pin²	一個片子
 套	to³	梳化	soh¹ fa³	一套沙發
+通	tung¹	電話	din⁶ wa²	一通電話
 筒	tung⁴	菲林	fei¹ lam²	一個膠卷
 筒	tung⁴	藥丸	yeuk⁶ yuen²	一管藥丸
 脫	tuet³	衫	saam¹	一套衣服，一身衣服

@@ -16,6 +16,7 @@
 把,ba2,口,heo2,一張嘴
 把,ba2,聲,séng1,一個聲音
 把,ba2,扇,xin3,一把扇子
+把,ba2,鎖,so2,一把鎖，一把鎖頭
 把,ba2,掃,sou2,一把小笤帚，一把掃帚
 班,ban1,巴士,ba1 xi2,一班公車
 班,ban1,車,cé1,一班車
@@ -64,8 +65,10 @@
 煲,bou1,飯,fan6,一鍋飯
 煲,bou1,湯,tong1,一鍋湯
 煲,bou1,糖水,tong4 sêu2,一鍋甜湯
+部,bou6,電話,din6 wa2,一部電話
 部,bou6,𨋢,lib1,一台電梯，一部電梯，一座升降機
 部,bou6,洗衣機,sei2 yi1 géi1,一台洗衣機
+部,bou6,手提,seo2 tei4,一個手機，一部手機，一個行動電話
 杯,bui1,白酒,bag6 zeo2,一杯白酒
 杯,bui1,拔蘭地,bed6 lan1 déi2,一杯白蘭地
 杯,bui1,啤酒,bé1 zeo2,一杯啤酒
@@ -156,7 +159,7 @@
 啖,dam6,麵包,min6 bao1,一口麵包
 啖,dam6,奶,nai5,一口奶
 啖,dam6,奶茶,nai5 ca4,一口奶茶
-啖,dam6,檸茶,ning4 ca4,一口檸檬茶
+啖,dam6,檸茶,ning2 ca4,一口檸檬茶
 啖,dam6,濃茶,nung4 ca4,一口濃茶
 啖,dam6,三文治,sam1 men4 ji6,一口三明治
 啖,dam6,新鮮空氣,sen1 xin1 hung1 héi3,一口新鮮空氣
@@ -217,9 +220,9 @@
 沓,dab6,碗,wun2,一摞碗
 沓,dab6,洋樓,yêng4 leo2,一座洋房
 笪,dad3,地方,déi6 fong1,一個地方，一塊土地
-笪,dad3,定,déng6,一塊地方
-笪,dad3,𤶸,na1,一塊疤
-笪,dad3,田,tin4,一塊地
+笪,dad3,定,déng6,一塊地方，一個地方
+笪,dad3,𤶸,na1,一塊疤，一塊傷疤，一塊瘡疤
+笪,dad3,田,tin4,一塊地，一塊田地
 底,dei2,薄罉,bog6 cang1,一塊糯米粉烙餅
 底,dei2,糕,gou1,一盤糕
 底,dei2,蘿蔔糕,lo4 bag6 gou1,一整塊蘿蔔糕
@@ -264,6 +267,7 @@
 朵,dê2,鬱金香,wed1 gem1 hêng1,一朵鬱金香
 朵,dê2,櫻花,ying1 fa1,一朵櫻花
 朵,dê2,月季,yud6 gwei3,一朵月季
+堆,dêu1,垃圾,lab6 sab3,一堆垃圾
 對,dêu3,波鞋,bo1 hai4,一雙球鞋，一雙運動鞋
 對,dêu3,筷子,fai3 ji2,一雙筷子
 對,dêu3,腳,gêg3,一雙腳
@@ -289,6 +293,7 @@
 丁,ding1,友,yeo2,一個人，孤孤單單的一個人
 碟,dib2,菜,coi3,一盤菜
 碟,dib2,飯,fan6,一盤飯
+袋,doi6,垃圾,lab6 sab3,一袋垃圾
 度,dou6,玻璃門,bo1 léi1 mun4,一扇玻璃門
 度,dou6,計仔,gei2 zei2,一個點子
 度,dou6,橋,kiu4,一座橋
@@ -311,6 +316,7 @@
 段,dün6,佳話,gai1 wa6,一段佳話
 段,dün6,感情,gem2 qing4,一段感情
 段,dün6,經歷,ging1 lig6,一段經歷
+段,dün6,歌詞,go1 qi4,一段歌詞
 段,dün6,關係,gwan1 hei6,一段關係
 段,dün6,廣告,gwong2 gou3,一則廣告
 段,dün6,距離,kêu5 léi4,一段距離
@@ -467,6 +473,7 @@
 嚿,geo6,海綿,hoi2 min4,一塊海綿
 嚿,geo6,磚,jun1,一塊磚頭
 嚿,geo6,磚頭,jun1 teo4,一塊磚頭
+嚿,geo6,垃圾,lab6 sab3,一塊垃圾
 嚿,geo6,木,mug6,一塊木頭
 嚿,geo6,泥,nei4,一塊土，一團泥，一團泥土
 嚿,geo6,石,ség6,一塊石頭
@@ -478,6 +485,7 @@
 嚿,geo6,雲耳,wen4 yi5,一塊木耳
 嚿,geo6,玉,yug2,一塊玉
 嚿,geo6,肉,yug2,一塊肉
+句,gêu3,歌詞,go1 qi4,一句歌詞
 句,gêu3,說話,xud3 wa6,一句話
 句,gêu3,話,wa2,一句話
 具,gêu6,屍體,xi1 tei2,一具屍體
@@ -490,6 +498,7 @@
 件,gin6,中褸,zung1 leo1,一件中大衣
 件,gin6,中山裝,zung1 san1 zong1,一件中山裝
 件,gin6,冷衫,lang1 sam1,一件毛衣
+件,gin6,垃圾,lab6 sab3,一件垃圾
 件,gin6,褸,leo1,一件大衣，一件外套，一件夾克
 件,gin6,棉褸,min4 leo1,一件棉大衣
 件,gin6,棉衲,min4 nab6,一件棉襖
@@ -525,6 +534,7 @@
 個,go3,匙羹,qi4 geng1,一把勺子，一把湯匙，一個勺子
 個,go3,傳説,qun4 xud3,一個傳説
 個,go3,大廳,dai6 téng1,一個大廳
+個,go3,電話,din6 wa2,一個電話
 個,go3,島嶼,dou2 zêu6,一個島嶼
 個,go3,冬瓜,dung1 gwa1,一個冬瓜
 個,go3,蕃茄,fan1 ké2,一個蕃茄
@@ -1137,6 +1147,31 @@ pack,pég1,藥水膠布,yêg6 sêu2 gao1 bou3,一包藥水膠布
 𢱢,sag3,沙田柚,sa1 tin4 yeo2,一塊柚子肉
 𢱢,sag3,西瓜,sei1 gwa1,一塊西瓜
 世,sei3,人,yen4,一輩子
+首,seo2,情歌,qing4 go1,一首情歌
+首,seo2,歌,go1,一首歌
+首,seo2,歌詞,go1 qi4,一首歌詞
+首,seo2,歌曲,go1 kug1,一首歌曲
+首,seo2,歌謠,go1 yiu4,一首歌謠
+首,seo2,古詩,gu2 xi1,一首古詩
+首,seo2,奏鳴曲,zeo3 ming4 kug1,一首奏鳴曲
+首,seo2,即興曲,jig1 hing3 kug1,一首即興曲
+首,seo2,即興詩,jig1 hing3 xi1,一首即興詩
+首,seo2,主打歌,ju2 da2 go1,一首主打歌
+首,seo2,主題歌,ju2 tei4 go1,一首主題歌
+首,seo2,流行歌,leo4 heng4 go1,一首流行歌
+首,seo2,老歌,lou5 go1,一首老歌
+首,seo2,民歌,men4 go1,一首民歌
+首,seo2,民謠,men4 yiu4,一首民謠
+首,seo2,樂曲,ngog6 kug1,一首樂曲
+首,seo2,俳句,pai4 gêu3,一首俳句
+首,seo2,新歌,sen1 go1,一首新歌
+首,seo2,新曲,sen1 kug1,一首新曲
+首,seo2,詩,xi1,一首詩
+首,seo2,小詩,xiu2 xi1,一首小詩
+首,seo2,抒情詩,xu1 qing4 xi1,一首抒情詩
+首,seo2,唐詩,tong4 xi1,一首唐詩
+首,seo2,兒歌,yi4 go1,一首兒歌
+首,seo2,現代詩,yin6 doi6 xi1,一首現代詩
 勺,sêg3,酒,zeo2,一提酒
 勺,sêg3,油,yeo4,一提油
 扇,xin3,窗,cêng1,一扇窗戶
@@ -1182,8 +1217,10 @@ pack,pég1,藥水膠布,yêg6 sêu2 gao1 bou3,一包藥水膠布
 條,tiu4,褲帶,fu3 dai2,一條褲帶
 條,tiu4,嘉𩶘,ga1 lab6,一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
 條,tiu4,街,gai1,一條街
+條,tiu4,街數,gai1 sou3,一筆債，一筆錢，一筆外債，一筆債務
 條,tiu4,格仔裙,gag3 zei2 kwen4,一條花格裙子
 條,tiu4,膠喉,gao1 heo4,一根膠管
+條,tiu4,雞毛掃,gei1 mou4 sou2,一根雞毛撢子，一支雞毛撢子
 條,tiu4,雞泡魚,gei1 pou5 yu4,一條河豚
 條,tiu4,金魚,gem1 yu2,一條金魚
 條,tiu4,枸杞,geo2 géi2,一條枸杞
@@ -1304,6 +1341,7 @@ pack,pég1,藥水膠布,yêg6 sêu2 gao1 bou3,一包藥水膠布
 套,tou3,劇,kég6,一部電視劇
 套,tou3,片,pin2,一個片子
 套,tou3,梳化,so1 fa3,一套沙發
+通,tung1,電話,din6 wa2,一通電話
 筒,tung4,菲林,féi1 lem2,一個膠卷
 筒,tung4,藥丸,yêg6 yun2,一管藥丸
 脫,tüd3,衫,sam1,一套衣服，一身衣服

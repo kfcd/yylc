@@ -15,6 +15,7 @@
 把	ba2	口	haw2	一張嘴
 把	ba2	聲	seng1	一個聲音
 把	ba2	扇	sin3	一把扇子
+把	ba2	鎖	so2	一把鎖，一把鎖頭
 把	ba2	掃	sow2	一把小笤帚，一把掃帚
 班	ban1	巴士	ba1 si2	一班公車
 班	ban1	車	ce1	一班車
@@ -63,8 +64,10 @@
 煲	bow1	飯	fan6	一鍋飯
 煲	bow1	湯	tong1	一鍋湯
 煲	bow1	糖水	tong4 soy2	一鍋甜湯
+部	bow6	電話	din6 wa2	一部電話
 部	bow6	𨋢	lib1	一台電梯，一部電梯，一座升降機
 部	bow6	洗衣機	say2 yi1 gey1	一台洗衣機
+部	bow6	手提	saw2 tay4	一個手機，一部手機，一個行動電話
 杯	bui1	白酒	bag6 jaw2	一杯白酒
 杯	bui1	拔蘭地	bat6 lan1 dey2	一杯白蘭地
 杯	bui1	啤酒	be1 jaw2	一杯啤酒
@@ -155,7 +158,7 @@
 啖	dam6	麵包	min6 bau1	一口麵包
 啖	dam6	奶	nai5	一口奶
 啖	dam6	奶茶	nai5 ca4	一口奶茶
-啖	dam6	檸茶	nenk4 ca4	一口檸檬茶
+啖	dam6	檸茶	nenk2 ca4	一口檸檬茶
 啖	dam6	濃茶	nonk4 ca4	一口濃茶
 啖	dam6	三文治	sam1 mant4 ji6	一口三明治
 啖	dam6	新鮮空氣	sant1 sin1 honk1 hey3	一口新鮮空氣
@@ -216,9 +219,9 @@
 沓	dab6	碗	wun2	一摞碗
 沓	dab6	洋樓	yeong4 law2	一座洋房
 笪	dad3	地方	dey6 fong1	一個地方，一塊土地
-笪	dad3	定	deng6	一塊地方
-笪	dad3	𤶸	na1	一塊疤
-笪	dad3	田	tin4	一塊地
+笪	dad3	定	deng6	一塊地方，一個地方
+笪	dad3	𤶸	na1	一塊疤，一塊傷疤，一塊瘡疤
+笪	dad3	田	tin4	一塊地，一塊田地
 底	day2	薄罉	bog6 cang1	一塊糯米粉烙餅
 底	day2	糕	gow1	一盤糕
 底	day2	蘿蔔糕	lo4 bag6 gow1	一整塊蘿蔔糕
@@ -263,6 +266,7 @@
 朵	deo2	鬱金香	wat1 gamp1 heong1	一朵鬱金香
 朵	deo2	櫻花	yenk1 fa1	一朵櫻花
 朵	deo2	月季	yeud6 guay3	一朵月季
+堆	doy1	垃圾	lab6 sab3	一堆垃圾
 對	doy3	波鞋	bo1 hai4	一雙球鞋，一雙運動鞋
 對	doy3	筷子	fai3 ji2	一雙筷子
 對	doy3	腳	geog3	一雙腳
@@ -288,6 +292,7 @@
 丁	denk1	友	yaw2	一個人，孤孤單單的一個人
 碟	dib2	菜	coi3	一盤菜
 碟	dib2	飯	fan6	一盤飯
+袋	doi6	垃圾	lab6 sab3	一袋垃圾
 度	dow6	玻璃門	bo1 ley1 mun4	一扇玻璃門
 度	dow6	計仔	gay2 jay2	一個點子
 度	dow6	橋	kiu4	一座橋
@@ -310,6 +315,7 @@
 段	deun6	佳話	gai1 wa6	一段佳話
 段	deun6	感情	gamp2 cenk4	一段感情
 段	deun6	經歷	genk1 lek6	一段經歷
+段	deun6	歌詞	go1 ci4	一段歌詞
 段	deun6	關係	guan1 hay6	一段關係
 段	deun6	廣告	guong2 gow3	一則廣告
 段	deun6	距離	koy5 ley4	一段距離
@@ -466,6 +472,7 @@
 嚿	gaw6	海綿	hoi2 min4	一塊海綿
 嚿	gaw6	磚	jeun1	一塊磚頭
 嚿	gaw6	磚頭	jeun1 taw4	一塊磚頭
+嚿	gaw6	垃圾	lab6 sab3	一塊垃圾
 嚿	gaw6	木	mok6	一塊木頭
 嚿	gaw6	泥	nay4	一塊土，一團泥，一團泥土
 嚿	gaw6	石	seg6	一塊石頭
@@ -477,6 +484,7 @@
 嚿	gaw6	雲耳	want4 yi5	一塊木耳
 嚿	gaw6	玉	yok2	一塊玉
 嚿	gaw6	肉	yok2	一塊肉
+句	goy3	歌詞	go1 ci4	一句歌詞
 句	goy3	說話	seud3 wa6	一句話
 句	goy3	話	wa2	一句話
 具	goy6	屍體	si1 tay2	一具屍體
@@ -489,6 +497,7 @@
 件	gin6	中褸	jonk1 law1	一件中大衣
 件	gin6	中山裝	jonk1 san1 jong1	一件中山裝
 件	gin6	冷衫	lang1 sam1	一件毛衣
+件	gin6	垃圾	lab6 sab3	一件垃圾
 件	gin6	褸	law1	一件大衣，一件外套，一件夾克
 件	gin6	棉褸	min4 law1	一件棉大衣
 件	gin6	棉衲	min4 nab6	一件棉襖
@@ -524,6 +533,7 @@
 個	go3	匙羹	ci4 gank1	一把勺子，一把湯匙，一個勺子
 個	go3	傳説	ceun4 seud3	一個傳説
 個	go3	大廳	dai6 teng1	一個大廳
+個	go3	電話	din6 wa2	一個電話
 個	go3	島嶼	dow2 joy6	一個島嶼
 個	go3	冬瓜	donk1 gua1	一個冬瓜
 個	go3	蕃茄	fan1 ke2	一個蕃茄
@@ -1136,6 +1146,31 @@ pack	peg1	藥水膠布	yeog6 soy2 gau1 bow3	一包藥水膠布
 𢱢	sag3	沙田柚	sa1 tin4 yaw2	一塊柚子肉
 𢱢	sag3	西瓜	say1 gua1	一塊西瓜
 世	say3	人	yant4	一輩子
+首	saw2	情歌	cenk4 go1	一首情歌
+首	saw2	歌	go1	一首歌
+首	saw2	歌詞	go1 ci4	一首歌詞
+首	saw2	歌曲	go1 kok1	一首歌曲
+首	saw2	歌謠	go1 yiu4	一首歌謠
+首	saw2	古詩	gu2 si1	一首古詩
+首	saw2	奏鳴曲	jaw3 menk4 kok1	一首奏鳴曲
+首	saw2	即興曲	jek1 henk3 kok1	一首即興曲
+首	saw2	即興詩	jek1 henk3 si1	一首即興詩
+首	saw2	主打歌	jeu2 da2 go1	一首主打歌
+首	saw2	主題歌	jeu2 tay4 go1	一首主題歌
+首	saw2	流行歌	law4 hank4 go1	一首流行歌
+首	saw2	老歌	low5 go1	一首老歌
+首	saw2	民歌	mant4 go1	一首民歌
+首	saw2	民謠	mant4 yiu4	一首民謠
+首	saw2	樂曲	ngog6 kok1	一首樂曲
+首	saw2	俳句	pai4 goy3	一首俳句
+首	saw2	新歌	sant1 go1	一首新歌
+首	saw2	新曲	sant1 kok1	一首新曲
+首	saw2	詩	si1	一首詩
+首	saw2	小詩	siu2 si1	一首小詩
+首	saw2	抒情詩	seu1 cenk4 si1	一首抒情詩
+首	saw2	唐詩	tong4 si1	一首唐詩
+首	saw2	兒歌	yi4 go1	一首兒歌
+首	saw2	現代詩	yin6 doi6 si1	一首現代詩
 勺	seog3	酒	jaw2	一提酒
 勺	seog3	油	yaw4	一提油
 扇	sin3	窗	ceong1	一扇窗戶
@@ -1181,8 +1216,10 @@ pack	peg1	藥水膠布	yeog6 soy2 gau1 bow3	一包藥水膠布
 條	tiu4	褲帶	fu3 dai2	一條褲帶
 條	tiu4	嘉𩶘	ga1 lab6	一條鯛魚，一條真鯛，一條赤鯛，一條正鯛
 條	tiu4	街	gai1	一條街
+條	tiu4	街數	gai1 sow3	一筆債，一筆錢，一筆外債，一筆債務
 條	tiu4	格仔裙	gag3 jay2 kuant4	一條花格裙子
 條	tiu4	膠喉	gau1 haw4	一根膠管
+條	tiu4	雞毛掃	gay1 mow4 sow2	一根雞毛撢子，一支雞毛撢子
 條	tiu4	雞泡魚	gay1 pow5 yeu4	一條河豚
 條	tiu4	金魚	gamp1 yeu2	一條金魚
 條	tiu4	枸杞	gaw2 gey2	一條枸杞
@@ -1303,6 +1340,7 @@ pack	peg1	藥水膠布	yeog6 soy2 gau1 bow3	一包藥水膠布
 套	tow3	劇	keg6	一部電視劇
 套	tow3	片	pin2	一個片子
 套	tow3	梳化	so1 fa3	一套沙發
+通	tonk1	電話	din6 wa2	一通電話
 筒	tonk4	菲林	fey1 lamp2	一個膠卷
 筒	tonk4	藥丸	yeog6 yeun2	一管藥丸
 脫	teud3	衫	sam1	一套衣服，一身衣服
