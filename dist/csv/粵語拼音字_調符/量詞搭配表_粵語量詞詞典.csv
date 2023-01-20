@@ -3,21 +3,29 @@
 把,bã,柴,cai,一捆兒柴，一捆木柴
 把,bã,餐刀,cän döw,一把餐刀
 把,bã,尺,cêg,一條尺子，一把尺子
+把,bã,青,cëng,一把刀
 把,bã,鎚,coy,一柄錘子，一柄鐵錘，一把錘子，一把鐵錘
 把,bã,鎚仔,coy,一柄錘子，一柄鐵錘，一把錘子，一把鐵錘
 把,bã,秤,cênk,一桿秤，一桿磅秤
 把,bã,菜,côi,一捆兒菜
 把,bã,菜刀,côi döw,一把菜刀
 把,bã,草,cõw,一捆兒草
+把,bã,刀,döw,一把刀
+把,bã,刀仔,döw jãy,一捆小刀
 把,bã,火,fõ,一肚子火
 把,bã,鉸剪,gâu jĩn,一把剪刀
 把,bã,鋸,geô,一把鋸子
 把,bã,劍,gîm,一把劍
 把,bã,口,hãw,一張嘴
+把,bã,遮,jë,一把傘，一把雨傘
+把,bã,傘,sân,一把傘
 把,bã,聲,sëng,一個聲音
 把,bã,扇,sîn,一把扇子
 把,bã,鎖,sõ,一把鎖，一把鎖頭
 把,bã,掃,sõw,一把小笤帚，一把掃帚
+把,bã,陽傘,yeong sân,一把陽傘
+把,bã,雨遮,yeú jë,一把雨傘
+把,bã,雨傘,yeú sân,一把雨傘
 班,bän,巴士,bä sĩ,一班公車
 班,bän,車,cë,一班車
 班,bän,打工仔,dã gönk jãy,一群工人，一群上班族
@@ -33,6 +41,7 @@
 班,bän,黑社會,häk sé wùi,一幫黑社會
 班,bän,後生仔,hàw säng jãy,一群年輕人
 班,bän,學生,hòg säng,一群學生一幫學生
+班,bän,學生,hòg säng,一群學生
 班,bän,好朋友,hõw pank yáw,一群好朋友
 班,bän,精英,jënk yënk,一群精英
 班,bän,政棍,jênk guânt,一幫政客
@@ -60,14 +69,16 @@
 包,bäu,煙仔,yïn jãy,一盒香煙，一包香煙
 筆,bät,事,sì,一碼事
 筆,bät,數,sôw,一筆帳
-餅,bẽng,錄音帶,lòk yämp dãi,一盒錄音帶，一捲錄音帶
+餅,bẽng,錄音帶,lòk yämp dãi,一盒錄音帶，一卷錄音帶
 餅,bẽng,嘢,yé,一萬塊錢
 煲,böw,飯,fàn,一鍋飯
 煲,böw,湯,töng,一鍋湯
 煲,böw,糖水,tong sõy,一鍋甜湯
+部,bòw,電腦,dìn nów,一台電腦
 部,bòw,電話,dìn wã,一部電話
 部,bòw,𨋢,lïb,一台電梯，一部電梯，一座升降機
 部,bòw,洗衣機,sãy yï gëy,一台洗衣機
+部,bòw,手機,sãw gëy,一部手機
 部,bòw,手提,sãw tay,一個手機，一部手機，一個行動電話
 杯,büi,白酒,bàg jãw,一杯白酒
 杯,büi,拔蘭地,bàt län dẽy,一杯白蘭地
@@ -100,6 +111,7 @@
 杯,büi,飮品,yãmp bãnt,一杯飲料
 杯,büi,鴛鴦茶,yeün yeöng ca,一杯咖啡茶，一杯咖啡加奶茶
 本,bũn,雜誌,jàb jî,一本雜誌
+本,bũn,相簿,seõng bõw,一本相冊，一本照相簿，一本照相冊
 本,bũn,書,seü,一本書
 本,bũn,護照,wù jîu,一本護照
 埲,bònk,板障,bãn jeông,一堵板牆
@@ -112,12 +124,68 @@
 篸,cãm,垃圾,làb sâb,一簸箕垃圾
 篸,cãm,泥,nay,一泥箕土
 揪,cäw,香蕉,heöng jïu,一把香蕉
+揪,cäw,豬肉,jeü yòk,一掛豬肉
 揪,cäw,荔枝,lày jï,一嘟嚕荔枝，一束荔枝
+揪,cäw,蘋果,penk guõ,一袋蘋果
 揪,cäw,菩提子,pow tay jĩ,一嘟嚕葡萄，一串葡萄
 揪,cäw,鎖匙,sõ si,一串鑰匙
 揪,cäw,提子,tay jĩ,一嘟嚕葡萄，一串葡萄
+場,ceong,悲劇,bëy kèg,一場悲劇
+場,ceong,比賽,bẽy côi,一場比賽
+場,ceong,比試,bẽy sî,一場比試
 場,ceong,病,bèng,一場病
+場,ceong,乒乓波,bënk bämp bö,一場乒乓球
+場,ceong,表演,bĩu yĩn,一場表演
+場,ceong,波,bö,一場球賽
+場,ceong,賽事,côi sì,一場賽事
+場,ceong,大病,dài bèng,一場大病
+場,ceong,大賭,dài dõw,一場大賭
+場,ceong,大火,dài fõ,一場大火
+場,ceong,大醉,dài jôy,一場大醉
+場,ceong,大戰,dài jîn,一場大戰
+場,ceong,大睡,dài sòy,一場大睡
+場,ceong,大笑,dài sîu,一場大笑
+場,ceong,大雪,dài seûd,一場大雪
+場,ceong,大雨,dài yeú,一場大雨
+場,ceong,鬥,dâw,一場鬥
+場,ceong,鬥爭,dâw jänk,一場鬥爭
+場,ceong,電影,dìn yẽnk,一場電影
+場,ceong,賭,dõw,一場賭
+場,ceong,婚禮,fänt láy,一場婚禮
+場,ceong,風波,fönk bö,一場風波
+場,ceong,革命,gâg mènk,一場革命
+場,ceong,官司,gün sï,一場官司
 場,ceong,過雲雨,guô want yeú,一場陣雨
+場,ceong,酣睡,hamp sòy,一場酣睡
+場,ceong,戲,hêy,一場戲
+場,ceong,虛驚,höy gënk,一場虛驚
+場,ceong,豪賭,how dõw,一場豪賭
+場,ceong,空歡喜,hönk fün hẽy,一場空歡喜
+場,ceong,爭論,jänk lònt,一場爭論
+場,ceong,戰爭,jîn jänk,一場戰爭
+場,ceong,災難,jöi nàn,一場災難
+場,ceong,足球,jök kaw,一場足球
+場,ceong,球,kaw,一場球
+場,ceong,球賽,kaw côi,一場球賽
+場,ceong,籃球,lam kaw,一場籃球
+場,ceong,旅行,lóy hank,一場旅行
+場,ceong,戀愛,leũn ôi,一場戀愛
+場,ceong,舞,mów,一場舞
+場,ceong,夢,mònk,一場夢
+場,ceong,誤會,ǹg wùi,一場誤會
+場,ceong,惡鬥,ôg dâw,一場惡鬥
+場,ceong,排球,pai kaw,一場排球
+場,ceong,棒球賽,páng kaw côi,一場棒球賽
+場,ceong,辛苦,sänt fũ,一場辛苦
+場,ceong,相識,seöng sëk,一場相識
+場,ceong,輸,seü,一場輸
+場,ceong,雪,seûd,一場雪
+場,ceong,痛哭,tônk hök,一場痛哭
+場,ceong,痛飲,tônk yãmp,一場痛飲
+場,ceong,話劇,wã kèg,一場話劇
+場,ceong,運動,wànt dònk,一場運動
+場,ceong,混戰,wànt jîn,一場混戰
+場,ceong,雨,yeú,一場雨
 齣,cöt,大戲,dài hêy,一部粵劇
 齣,cöt,電影,dìn yẽnk,一場電影
 齣,cöt,喜劇,hẽy kèg,一部喜劇
@@ -143,6 +211,7 @@
 擔,dâm,泥,nay,一挑土
 啖,dàm,啤酒,bë jãw,一口啤酒
 啖,dàm,茶,ca,一口茶
+啖,dàm,橙,cãng,一口橙汁，一口橘子汁
 啖,dàm,橙汁,cãng jäp,一口橙汁，一口橘子汁
 啖,dàm,菜,côi,一口菜
 啖,dàm,豆漿,dàw jeöng,一口豆漿
@@ -280,25 +349,33 @@
 對,dôy,手,sãw,一雙手
 對,dôy,手襪,sãw mãt,一副手套，一雙手套
 對,dôy,耳仔,yí jãy,一雙耳朵
+對,dôy,耳塞,yí säk,一副耳塞
 對,dôy,鴛鴦鞋,yeün yeöng hai,一雙左右配不上的鞋子
 對,dôy,鴛鴦襪,yeün yeöng màt,一雙左右配不上的襪子
-滴,dëk,汗,hòn,一滴汗
-滴,dëk,汗水,hòn sõy,一滴汗水
-滴,dëk,血,heûd,一滴血
-滴,dëk,眼淚,ngán lòy,一滴眼淚
-滴,dëk,眼藥,ngán yeòg,一滴眼藥
-滴,dëk,水,sõy,一滴水
-滴,dëk,雨,yeú,一滴雨
+滴,dèk,汗,hòn,一滴汗
+滴,dèk,汗水,hòn sõy,一滴汗水
+滴,dèk,血,heûd,一滴血
+滴,dèk,眼淚,ngán lòy,一滴眼淚
+滴,dèk,眼藥,ngán yeòg,一滴眼藥
+滴,dèk,水,sõy,一滴水
+滴,dèk,雨,yeú,一滴雨
 丁,dënk,人,yant,一個人
 丁,dënk,友,yãw,一個人，孤孤單單的一個人
-碟,dĩb,菜,côi,一盤菜
-碟,dĩb,飯,fàn,一盤飯
+碟,dìb,菜,côi,一盤菜
+碟,dìb,飯,fàn,一盤飯
+袋,dòi,餅乾,bẽng gön,一袋餅乾
+袋,dòi,舊衫,gàw säm,一袋舊衣
 袋,dòi,垃圾,làb sâb,一袋垃圾
+袋,dòi,糧食,leong sèk,一袋糧食
+袋,dòi,米,máy,一袋米
+袋,dòi,麵粉,mìn fãnt,一袋麵粉
+袋,dòi,煙,yïn,一袋煙
 度,dòw,玻璃門,bö lëy mun,一扇玻璃門
 度,dòw,計仔,gãy jãy,一個點子
 度,dòw,橋,kiu,一座橋
 度,dòw,門,mun,一扇門
 度,dòw,散手,sãn sãw,一套技能
+度,dòw,趟門,tông mun,一扇推拉門，一扇滑門
 渡,dòw,船,seun,一班船
 道,dòw,彩虹,cõi honk,一道彩虹
 篤,dök,口水,hãw sõy,一口吐沫，一口口水
@@ -307,7 +384,8 @@
 篤,dök,屎,sĩ,一泡屎
 篤,dök,痰,tam,一口痰
 棟,dônk,公寓,gönk yeù,一幢公寓，一套公寓，一棟公寓
-戙,dònk,磚,jeün,一摞磚頭
+戙,dònk,作業簿,jôg yìb bõw,一摞子作業本
+戙,dònk,磚,jeün,一摞磚頭，一摞子磚
 戙,dònk,瓦,ngá,一摞瓦
 戙,dònk,牌,pai,一摞麻將牌
 戙,dònk,書,seü,一摞書
@@ -327,7 +405,6 @@
 段,deùn,文字,mant jì,一段文字
 段,deùn,愛情,ôi cenk,一段愛情
 段,deùn,新聞,sänt mant,一段新聞
-段,deùn,時間,si gân,一段時間
 段,deùn,時間,si gân,一段時間
 段,deùn,時期,si key,一段時期
 段,deùn,說話,seûd wà,一段話
@@ -385,13 +462,15 @@
 份,fànt,研究,yin gâw,一份研究
 份,fànt,熱情,yìd cenk,一份熱情
 唿,fät,布,bôw,一小塊布
+飛,fëy,子彈,jĩ dãn,一發子彈
 伙,fõ,人,yant,一戶人家
 夫,fü,田地,tin dèy,一塊地
 副,fû,偈,gãy,一台內燃機
 副,fû,機器,gëy hêy,一台機器，一套機器
 副,fû,工具,gönk gòy,一套工具
 副,fû,黑超,häk cïu,一副墨鏡，一副太陽鏡
-副,fû,眼鏡,ngán gêng,一副眼鏡
+副,fû,墨鏡,màk gêng,一副墨鏡
+副,fû,眼鏡,ngán gẽng,一副眼鏡
 副,fû,牌,pai,一副牌
 副,fû,啤,pë,一副撲克牌
 副,fû,身家,sänt gä,一副家產，一筆資產
@@ -418,7 +497,7 @@
 架,gâ,小巴,sĩu bä,一輛小型公共汽車，一輛麵包車，一輛中客車
 架,gâ,船,seun,一條船，一艘船
 架,gâ,拖拉機,tö läi gëy,一輛拖拉機
-間,gän,別墅,bìd sóy,一幢別墅，一座別墅，一棟別墅
+間,gän,別墅,bìd sòy,一幢別墅，一座別墅，一棟別墅
 間,gän,博物館,bôg màt gũn,一個博物館，一座博物館，一所博物館
 間,gän,寢室,cãmp sät,一間寢室
 間,gän,出入口公司,cöt yàp hãw gönk sï,一家進出口公司
@@ -564,8 +643,9 @@
 個,gô,無花果,mow fä guõ,一個無花果
 個,gô,南瓜,nam guä,一個南瓜
 個,gô,牙刷,nga cãd,一把牙刷
-個,gô,眼鏡,ngán gêng,一副眼鏡
+個,gô,眼鏡,ngán gẽng,一副眼鏡
 個,gô,矮瓜,ngãy guä,一條茄子，一個茄子
+個,gô,蘋果,penk guõ,一顆蘋果，一個蘋果
 個,gô,沙葛,sä gôd,一個豆薯，一個涼薯，一個葛薯
 個,gô,衫架,säm gã,一個衣架
 個,gô,生菜,säng côi,一個萵苣
@@ -612,16 +692,41 @@
 拃,jà,泥,nay,一把土
 紮,jâd,花,fä,一束花
 紮,jâd,樹枝,seù jï,一捆樹枝
+劑,jäy,補藥,bõw yeòg,一劑補藥
+劑,jäy,催產藥,cöy cãn yeòg,一劑催產藥
+劑,jäy,催眠藥,cöy min yeòg,一劑催眠藥
+劑,jäy,春藥,cönt yeòg,一劑春藥
+劑,jäy,毒品,dòk bãnt,一劑毒品
+劑,jäy,毒藥,dòk yeòg,一劑毒藥
+劑,jäy,方子,föng jĩ,一劑方子
+劑,jäy,解藥,gãi yeòg,一劑解藥
+劑,jäy,薑湯,geöng töng,一劑薑湯
+劑,jäy,膏藥,göw yeòg,一劑膏藥
+劑,jäy,興奮劑,hënk fánt jäy,一劑興奮劑
+劑,jäy,鴆毒,jàmp dòk,一劑鴆毒
+劑,jäy,鎮靜藥,jânt jènk yeòg,一劑鎮靜藥
+劑,jäy,止痛藥,jĩ tônk yeòg,一劑止痛藥
+劑,jäy,良藥,leong yeòg,一劑良藥
+劑,jäy,麻醉藥,ma jôy yeòg,一劑麻醉藥
+劑,jäy,媚藥,mèy yeòg,一劑媚藥
+劑,jäy,妙藥,mìu yeòg,一劑妙藥
+劑,jäy,安神藥,ön sant yeòg,一劑安神藥
+劑,jäy,湯藥,töng yeòg,一劑湯藥
+劑,jäy,藥,yeòg,一劑藥
+劑,jäy,藥粉,yeòg fãnt,一劑藥粉
+劑,jäy,疫苗,yèk miu,一劑疫苗
 浸,jâmp,花生衣,fä sänk yï,一層花生衣
 浸,jâmp,皮,pey,一層皮
 浸,jâmp,油,yãw,一層油漆，一層油
 朕,jàmp,臭,câw,一股臭味
 朕,jàmp,臭𡃴,câw coy,一股臭味
 朕,jàmp,𡃴,coy,一股味，一股味道
+朕,jàmp,火𤓓味,fõ lô mèy,一股煳味，一股燒焦味，一股火煙味，一股煳味兒
 朕,jàmp,風,fönk,一陣風
-朕,jàmp,一朕,jàmp,一股，一陣
 朕,jàmp,酒𡃴,jãw coy,一股酒味兒
 朕,jàmp,涼風,leong fönk,一陣涼風
+朕,jàmp,𤓓味,lô mèy,一股煳味，一股燒焦味，一股火煙味，一股煳味兒
+朕,jàmp,味,mèy,一股味，一股味兒
 朕,jàmp,煙,yïn,一股煙，一縷煙
 執,jäp,米,máy,一把米
 執,jäp,毛,mow,一撮毛
@@ -629,11 +734,11 @@
 隻,jêg,白鴿,bàg gãp,一隻白鴿
 隻,jêg,白鶴,bàg hõg,一隻白鶴
 隻,jêg,斑鳩,bän käw,一隻斑鳩
-隻,jêg,斑鳩,bän käw,一隻斑鳩
 隻,jêg,斑馬,bän má,一匹斑馬
 隻,jêg,北極熊,bäk gèk honk,一隻北極熊
 隻,jêg,鼻哥,bèy gö,一隻鼻子，一個鼻子，一隻鼻
 隻,jêg,錶,bïu,一塊錶
+隻,jêg,波,bö,一隻球，一個球
 隻,jêg,布料,bôw lìu,一種布料
 隻,jêg,暴龍,bòw lonk,一隻暴龍
 隻,jêg,杯,büi,一個杯子
@@ -686,7 +791,6 @@
 隻,jêg,歌,gö,一首歌
 隻,jêg,歌仔,gö jãy,一首歌，一首歌兒
 隻,jêg,高角羚,göw gôg lenk,一頭高角羚
-隻,jêg,故仔,gũ jãy,一個故事
 隻,jêg,古仔,gũ jãy,一篇故事，一個故事，一則故事
 隻,jêg,股票,gũ pîu,一種股票
 隻,jêg,鬼,guãy,一個鬼，一隻鬼
@@ -699,13 +803,13 @@
 隻,jêg,黑豹,häk pâu,一隻黑豹
 隻,jêg,黑猩猩,häk sënk sënk,一隻黑猩猩
 隻,jêg,河馬,ho má,一頭河馬
+隻,jêg,海鷗,hõi äw,一隻海鷗
 隻,jêg,海獺,hõi câd,一隻海獺
 隻,jêg,海膽,hõi dãm,一隻海膽
 隻,jêg,海龜,hõi guäy,一隻海龜
 隻,jêg,海象,hõi jeòng,一頭海象
 隻,jêg,海狸,hõi ley,一隻海狸
 隻,jêg,海馬,hõi má,一隻海馬
-隻,jêg,海鷗,hõi ngäw,一隻海鷗
 隻,jêg,海牛,hõi ngaw,一頭海牛
 隻,jêg,海豹,hõi pâu,一隻海豹
 隻,jêg,海獅,hõi sï,一頭海獅
@@ -723,6 +827,7 @@
 隻,jêg,蟑螂,jeöng long,一隻蟑螂
 隻,jêg,知更鳥,jï gänk níu,一隻知更鳥
 隻,jêg,蜘蛛,jï jeü,一隻蜘蛛
+隻,jêg,字,jì,一個字
 隻,jêg,箭豬,jîn jeü,一頭豪豬
 隻,jêg,戰艦,jîn làm,一艘軍艦
 隻,jêg,豬,jeü,一頭豬，一口豬
@@ -765,6 +870,7 @@
 隻,jêg,皮鞋,pey hai,一隻皮鞋
 隻,jêg,蝙蝠,pïn fök,一隻蝙蝠
 隻,jêg,平底鑊,penk dãy wòg,一口平底鍋，一隻平底鍋
+隻,jêg,蘋果,penk guõ,一顆蘋果，一個蘋果
 隻,jêg,瓢蟲,piu conk,一隻瓢蟲
 隻,jêg,螃蟹,pong hái,一隻螃蟹
 隻,jêg,三角龍,säm gôg lonk,一隻三角龍
@@ -778,11 +884,13 @@
 隻,jêg,馴鹿,sont lõk,一頭馴鹿，一隻馴鹿
 隻,jêg,獅子,sï jĩ,一頭獅子
 隻,jêg,豉油碟,sì yaw dĩb,一個小盤子，一個小碟兒，一個醬油碟子
+隻,jêg,色,sëk,一種顏色
 隻,jêg,蟋蟀,sëk söt,一隻蟋蟀
 隻,jêg,蜥蜴,sëk yèk,一隻蜥蜴
 隻,jêg,猩猩,sënk sënk,一隻猩猩
 隻,jêg,小船,sĩu seun,一條小船
 隻,jêg,梳,sö,一把梳子
+隻,jêg,薯仔,seu jãy,一顆土豆，一顆馬鈴薯，一個土豆，一個馬鈴薯
 隻,jêg,樹熊,seù honk,無尾熊，考拉熊
 隻,jêg,樹懶,seù lán,一隻樹懶
 隻,jêg,雪豹,seûd pâu,一隻雪豹
@@ -822,6 +930,7 @@
 樽,jönt,拔蘭地,bàt län dẽy,一瓶白蘭地
 樽,jönt,橙汁,cãng jäp,一瓶柳橙汁，一瓶橘子汁
 樽,jönt,伏特加,fòk dàk gä,一瓶伏特加
+樽,jönt,汽水,hêy sõy,一瓶汽水
 樽,jönt,可樂​,hõ lòg,一瓶可樂
 樽,jönt,酒,jãw,一瓶酒
 樽,jönt,冧酒,lämp jãw,一瓶朗姆酒，一瓶蘭姆酒
@@ -830,14 +939,21 @@
 樽,jönt,威士忌,wäy sì gẽy,一瓶威士忌
 樽,jönt,油,yaw,一瓶油
 樽,jönt,藥水,yeòg sõy,一瓶藥水
+張,jeöng,班相,bän seõng,一張全班合照
 張,jeöng,八達通,bâd dàd tönk,一張八達通
 張,jeöng,餐枱,cän tõi,一張飯桌，一張餐桌
 張,jeöng,車飛,cë fëy,一張車票
 張,jeöng,廁紙,cî jĩ,一張衛生紙
+張,jeöng,菜刀,côi döw,一把菜刀
 張,jeöng,床,cong,一張床
 張,jeöng,床單,cong dän,一條床單
+張,jeöng,大床,dài cong,一張雙人床
+張,jeöng,擔架床,däm gâ cong,一張擔架床
+張,jeöng,彈床,dàn cong,一張蹦床，一張彈簧床
+張,jeöng,彈弓床,dàn gönk cong,一張沙發床，一張彈簧床
+張,jeöng,彈簧床,dàn wong cong,一張彈簧床
 張,jeöng,凳,dânk,一把椅子
-張,jeöng,刀,döw,一把刀
+張,jeöng,吊床,dîu cong,一張吊床
 張,jeöng,獨睡,dòk sõy,一張單人床
 張,jeöng,飛,fëy,一張票
 張,jeöng,fax,fëd sĩ,一份傳真，一張傳真
@@ -848,12 +964,16 @@
 張,jeöng,證書,jênk seü,一張證書
 張,jeöng,咭,käd,一張卡片
 張,jeöng,𢃇,léy,一張船帆
+張,jeöng,碌架床,lök gã cong,一張雙層床
 張,jeöng,被,péy,一床被子
 張,jeöng,平安紙,penk ngön jĩ,一份遺囑
 張,jeöng,信紙,sônt jĩ,一張信紙
+張,jeöng,雙格床,seöng gâg cong,一張雙層床，一張架子床
 張,jeöng,相,seõng,一張照片
 張,jeöng,cert,söt,一張畢業文憑
+張,jeöng,梳化床,sö fã cong,一張沙發床，一張彈簧床
 張,jeöng,梳化,sö fâ,一張沙發
+張,jeöng,酸枝床,seün jï cong,一張紅木床
 張,jeöng,船飛,seun fëy,一張船票
 張,jeöng,枱,tõi,一張桌子
 張,jeöng,嘢,yé,一塊錢
@@ -916,6 +1036,7 @@
 支,jï,冧酒,lämp jãw,一瓶朗姆酒，一瓶蘭姆酒
 支,jï,路燈,lòw dänk,一盞路燈
 支,jï,路燈柱,lòw dänk ceú,一根路燈柱
+支,jï,麻醉針,ma jôy jämp,一劑麻醉針
 支,jï,咪,mäy,一支麥克風
 支,jï,墨水筆,màk sõy bät,一枝鋼筆
 支,jï,玫瑰,mui guây,一朵玫瑰，一枝玫瑰
@@ -929,6 +1050,7 @@
 支,jï,細電,sây dìn,一節三號電池
 支,jï,手槍,sãw ceöng,一把手槍
 支,jï,水,sõy,一瓶水
+支,jï,脣蜜,sont màt,一支脣彩
 支,jï,鮮奶,sïn nái,一瓶鮮奶
 支,jï,雪茄,seûd gä,一根雪茄
 支,jï,探熱針,tâm yìd jämp,一根體溫計，一根體溫表，一根溫度計，一枝體溫計，一支體溫表，一枝溫度計
@@ -1021,8 +1143,8 @@
 粒,läp,恆星,hank sënk,一顆恆星
 粒,läp,行星,hank sënk,一顆行星
 粒,läp,合桃,hàb tow,一顆胡桃，一顆核桃，一個胡桃，一個核桃
-粒,läp,核彈,hàt dàn,一顆核彈
-粒,läp,氫彈,hënk dàn,一顆氫彈
+粒,läp,核彈,hàt dãn,一顆核彈
+粒,läp,氫彈,hënk dãn,一顆氫彈
 粒,läp,紅飯,honk fàn,一顆紅飯
 粒,läp,紅星,honk sënk,一顆紅星
 粒,läp,芝士,jï sĩ,一顆芝士
@@ -1188,6 +1310,7 @@ pack,pëg,藥水膠布,yeòg sõy gäu bôw,一包藥水膠布
 條,tiu,白蘿蔔,bàg lo bàg,一條白蘿蔔
 條,tiu,白頭髮,bàg taw fâd,一根白頭髮
 條,tiu,變色龍,bîn sëk lonk,一條變色龍
+條,tiu,波褲,bö fû,一條球褲，一條運動褲
 條,tiu,煲𧘹,böw täi,一條領結
 條,tiu,半截裙,bûn jìd kuant,一條裙子
 條,tiu,餐巾,cän gänt,一條餐巾
@@ -1206,7 +1329,7 @@ pack,pëg,藥水膠布,yeòg sõy gäu bôw,一包藥水膠布
 條,tiu,大白鯊,dài bàg sä,一條大白鯊
 條,tiu,大髀,dài bẽy,一條大腿
 條,tiu,大地魚,dài dèy yeũ,一條比目魚
-條,tiu,單車鏈,dän cë lìn,一根鏈條，一條滾子鏈
+條,tiu,單車鏈,dän cë lĩn,一根鏈條，一條滾子鏈，一條自行車鏈條
 條,tiu,底褲,dãy fû,一條內褲
 條,tiu,底裙,dãy kuant,一條襯裙
 條,tiu,毒蛇,dòk se,一條毒蛇
@@ -1239,6 +1362,7 @@ pack,pëg,藥水膠布,yeòg sõy gäu bôw,一包藥水膠布
 條,tiu,紅衫,honk säm,一條金線魚
 條,tiu,紅衫魚,honk säm yeũ,一條金線魚
 條,tiu,仔,jãy,一個男子，一個男朋友
+條,tiu,橡筋,jeòng gänt,一條橡皮筋，一根橡皮筋，一根橡皮圈兒
 條,tiu,支票,jï pîu,一張支票
 條,tiu,節瓜,jîd guä,一條毛瓜，一個毛瓜
 條,tiu,左口魚,jõ hãw yeũ,一條比目魚
@@ -1258,7 +1382,10 @@ pack,pëg,藥水膠布,yeòg sõy gäu bôw,一包藥水膠布
 條,tiu,褸裙,läw kuãnt,一條大衣式連衣裙
 條,tiu,脷,lèy,一條舌頭
 條,tiu,領𧘹,léng täi,一條領帶
+條,tiu,鏈,lĩn,一條手鏈
 條,tiu,蓮藕,lin ngáw,一條蓮藕
+條,tiu,拎,lënk,一條鏈接，一條連結，一條超鏈接
+條,tiu,裂,lîd,一道裂紋，一道裂縫，一道裂痕
 條,tiu,蘿蔔,lo bàg,一條蘿蔔
 條,tiu,龍,lonk,一條龍
 條,tiu,盲毛,mang mow,一個傻瓜
@@ -1286,6 +1413,7 @@ pack,pëg,藥水膠布,yeòg sõy gäu bôw,一包藥水膠布
 條,tiu,衫裙,säm kuant,一條連衣裙
 條,tiu,西洋菜,säy yeong côi,一條豆瓣葉，一條水田芥，一條水甕菜
 條,tiu,生命,sänk mèng,一條生命
+條,tiu,手骨,sãw guät,一條胳膊，一隻胳膊
 條,tiu,蛇,se,一條蛇
 條,tiu,水草,sõy cõw,一根水草
 條,tiu,水喉,sõy haw,一條水管
@@ -1303,7 +1431,6 @@ pack,pëg,藥水膠布,yeòg sõy gäu bôw,一包藥水膠布
 條,tiu,雪條,seûd tĩu,一根冰棍兒
 條,tiu,呔,täi,一個輪胎，一個車胎
 條,tiu,𧘹,täi,一條領帶
-條,tiu,𧘹,täi,一條領帶
 條,tiu,鰨沙,tâd sä,一條比目魚
 條,tiu,鰨沙魚,tâd sä yeũ,一條比目魚
 條,tiu,題目,tay mòk,一道題，一道題目
@@ -1319,11 +1446,12 @@ pack,pëg,藥水膠布,yeòg sõy gäu bôw,一包藥水膠布
 條,tiu,污水渠,wü sõy koy,一條下水道，一條地下渠，一條污水下水道
 條,tiu,護城河,wù senk ho,一條護城河
 條,tiu,陰溝,yämp käw,一條陰溝
+條,tiu,人龍,yant lonk,一條隊伍，一條排隊的隊伍，一條排得很長的隊伍
 條,tiu,人命,yant mèng,一條人命
-條,tiu,手骨,yät tiu sãw guät,一條胳膊，一隻胳膊
 條,tiu,友,yãw,一個傢伙，一個小子
 條,tiu,友仔,yãw jãy,一個傢伙，一個小子
 條,tiu,陽溝,yeong käw,一條陽溝
+條,tiu,染色體,yím sëk tãy,一條染色體
 條,tiu,羽毛,yeú mów,一根羽毛，一片羽毛
 堂,tong,鼻涕,bèy tây,一行鼻涕
 堂,tong,窗簾,ceöng lĩm,一塊窗簾
@@ -1349,6 +1477,10 @@ pack,pëg,藥水膠布,yeòg sõy gäu bôw,一包藥水膠布
 脫,teûd,人,yant,一批人，一撥兒人，一代人，一輩人
 圍,way,酒,jãw,一桌酒席
 圍,way,和頭酒,wo taw jãw,一桌謝罪酒
+壺,wu,茶,ca,一壺茶
+壺,wu,咖啡,gâ fë,一壺咖啡
+壺,wu,酒,jãw,一壺酒
+壺,wu,水,sõy,一壺水
 回,wui,事,sì,一回事
 碗,wũn,茶,ca,一碗茶
 碗,wũn,菜,côi,一碗菜
